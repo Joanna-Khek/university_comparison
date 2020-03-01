@@ -1,0 +1,913 @@
+Year,Year_Intake,University,School,Faculty,A Level Grade,A Level Grade Point,Diploma
+2019/2020,2019,National University of Singapore,Faculty of Law,Law,AAA/A,85,3.94
+2018/2019,2018,National University of Singapore,Faculty of Law,Law,AAA/A,85,No Data
+2017/2018,2017,National University of Singapore,Faculty of Law,Law,AAA/A,85,3.91
+2016/2017,2016,National University of Singapore,Faculty of Law,Law,AAA/A,85,3.92
+2015/2016,2015,National University of Singapore,Faculty of Law,Law,AAA/A,85,3.92
+2014/2015,2014,National University of Singapore,Faculty of Law,Law,AAA/A,85,3.87
+2013/2014,2013,National University of Singapore,Faculty of Law,Law,AAA/A,85,No Data
+2012/2013,2012,National University of Singapore,Faculty of Law,Law,AAA/A,85,No Data
+2011/2012,2011,National University of Singapore,Faculty of Law,Law,AAA/A,85,No Data
+2010/2011,2010,National University of Singapore,Faculty of Law,Law,AAA/A,85,No Data
+2009/2010,2009,National University of Singapore,Faculty of Law,Law,AAA/A,85,No Data
+2008/2009,2008,National University of Singapore,Faculty of Law,Law,AAA/A,85,No Data
+2019/2020,2019,National University of Singapore,School of Medicine,Medicine,AAA/A,85,3.94
+2018/2019,2018,National University of Singapore,School of Medicine,Medicine,AAA/A,85,No Data
+2017/2018,2017,National University of Singapore,School of Medicine,Medicine,AAA/A,85,3.91
+2016/2017,2016,National University of Singapore,School of Medicine,Medicine,AAA/A,85,3.92
+2015/2016,2015,National University of Singapore,School of Medicine,Medicine,AAA/A,85,3.92
+2014/2015,2014,National University of Singapore,School of Medicine,Medicine,AAA/A,85,3.87
+2013/2014,2013,National University of Singapore,School of Medicine,Medicine,AAA/A,85,No Data
+2012/2013,2012,National University of Singapore,School of Medicine,Medicine,AAA/A,85,No Data
+2011/2012,2011,National University of Singapore,School of Medicine,Medicine,AAA/A,85,No Data
+2010/2011,2010,National University of Singapore,School of Medicine,Medicine,AAA/A,85,No Data
+2009/2010,2009,National University of Singapore,School of Medicine,Medicine,AAA/A,85,No Data
+2008/2009,2008,National University of Singapore,School of Medicine,Medicine,AAA/A,85,No Data
+2019/2020,2019,National University of Singapore,School of Medicine,Nursing,CCD/B,66.25,3.33
+2018/2019,2018,National University of Singapore,School of Medicine,Nursing,CCC/C,67.5,3.37
+2017/2018,2017,National University of Singapore,School of Medicine,Nursing,CCC/B,68.75,3.48
+2016/2017,2016,National University of Singapore,School of Medicine,Nursing,BCC/C,70,3.39
+2015/2016,2015,National University of Singapore,School of Medicine,Nursing,CCC/B,68.75,3.45
+2014/2015,2014,National University of Singapore,School of Medicine,Nursing,CCC/B,68.75,3.42
+2013/2014,2013,National University of Singapore,School of Medicine,Nursing,CCC/B,68.75,3.56
+2012/2013,2012,National University of Singapore,School of Medicine,Nursing,BCC/C,70,3.43
+2011/2012,2011,National University of Singapore,School of Medicine,Nursing,BCC/B,71.25,3.58
+2010/2011,2010,National University of Singapore,School of Medicine,Nursing,BCC/B,71.25,3.46
+2009/2010,2009,National University of Singapore,School of Medicine,Nursing,CCC/B,68.75,3.23
+2008/2009,2008,National University of Singapore,School of Medicine,Nursing,CDD/C,62.5,3.02
+2019/2020,2019,National University of Singapore,Faculty of Dentistry,Dentistry,AAA/A,85,No Data
+2018/2019,2018,National University of Singapore,Faculty of Dentistry,Dentistry,AAA/A,85,No Data
+2017/2018,2017,National University of Singapore,Faculty of Dentistry,Dentistry,AAA/A,85,No Data
+2016/2017,2016,National University of Singapore,Faculty of Dentistry,Dentistry,AAA/A,85,No Data
+2015/2016,2015,National University of Singapore,Faculty of Dentistry,Dentistry,AAA/A,85,3.96
+2014/2015,2014,National University of Singapore,Faculty of Dentistry,Dentistry,AAA/A,85,No Data
+2013/2014,2013,National University of Singapore,Faculty of Dentistry,Dentistry,AAA/A,85,No Data
+2012/2013,2012,National University of Singapore,Faculty of Dentistry,Dentistry,AAA/A,85,No Data
+2011/2012,2011,National University of Singapore,Faculty of Dentistry,Dentistry,AAA/A,85,No Data
+2010/2011,2010,National University of Singapore,Faculty of Dentistry,Dentistry,AAA/A,85,No Data
+2009/2010,2009,National University of Singapore,Faculty of Dentistry,Dentistry,AAA/A,85,No Data
+2008/2009,2008,National University of Singapore,Faculty of Dentistry,Dentistry,AAA/A,85,No Data
+2019/2020,2019,National University of Singapore,School of Design & Environment,Architecture,ABB/C,77.5,3.59
+2018/2019,2018,National University of Singapore,School of Design & Environment,Architecture,ABB/C,77.5,3.76
+2017/2018,2017,National University of Singapore,School of Design & Environment,Architecture,ABB/B,78.75,3.78
+2016/2017,2016,National University of Singapore,School of Design & Environment,Architecture,AAB/C,80,3.77
+2015/2016,2015,National University of Singapore,School of Design & Environment,Architecture,ABB/B,78.75,3.72
+2014/2015,2014,National University of Singapore,School of Design & Environment,Architecture,AAB/C,80,3.76
+2013/2014,2013,National University of Singapore,School of Design & Environment,Architecture,AAB/C,80,3.69
+2012/2013,2012,National University of Singapore,School of Design & Environment,Architecture,ABB/B,78.75,3.83
+2011/2012,2011,National University of Singapore,School of Design & Environment,Architecture,BBB/C,75,3.58
+2010/2011,2010,National University of Singapore,School of Design & Environment,Architecture,BBB/B,76.25,3.42
+2009/2010,2009,National University of Singapore,School of Design & Environment,Architecture,BBB/C,75,3.4
+2008/2009,2008,National University of Singapore,School of Design & Environment,Architecture,BCC/C,70,No Data
+2019/2020,2019,National University of Singapore,School of Design & Environment,Industrial Design,ABB/C,77.5,3.88
+2018/2019,2018,National University of Singapore,School of Design & Environment,Industrial Design,ABB/C,77.5,3.72
+2017/2018,2017,National University of Singapore,School of Design & Environment,Industrial Design,AAB/C,80,3.7
+2016/2017,2016,National University of Singapore,School of Design & Environment,Industrial Design,ABB/B,78.75,3.72
+2015/2016,2015,National University of Singapore,School of Design & Environment,Industrial Design,BBB/B,76.25,3.59
+2014/2015,2014,National University of Singapore,School of Design & Environment,Industrial Design,BBB/B,76.25,3.73
+2013/2014,2013,National University of Singapore,School of Design & Environment,Industrial Design,BBB/C,75,3.57
+2012/2013,2012,National University of Singapore,School of Design & Environment,Industrial Design,BBB/B,76.25,3.67
+2011/2012,2011,National University of Singapore,School of Design & Environment,Industrial Design,BBB/C,75,3.52
+2010/2011,2010,National University of Singapore,School of Design & Environment,Industrial Design,BBC/B,73.75,No Data
+2009/2010,2009,National University of Singapore,School of Design & Environment,Industrial Design,BCC/C,70,No Data
+2008/2009,2008,National University of Singapore,School of Design & Environment,Industrial Design,CCC/B,68.75,No Data
+2019/2020,2019,National University of Singapore,School of Design & Environment,Project & Facilities Management,BCC/B,71.25,3.59
+2018/2019,2018,National University of Singapore,School of Design & Environment,Project & Facilities Management,BCC/C,70,3.54
+2017/2018,2017,National University of Singapore,School of Design & Environment,Project & Facilities Management,BBB/C,75,3.68
+2016/2017,2016,National University of Singapore,School of Design & Environment,Project & Facilities Management,BBB/B,76.25,3.68
+2015/2016,2015,National University of Singapore,School of Design & Environment,Project & Facilities Management,BBC/C,72.5,3.74
+2014/2015,2014,National University of Singapore,School of Design & Environment,Project & Facilities Management,BBC/C,72.5,3.77
+2013/2014,2013,National University of Singapore,School of Design & Environment,Project & Facilities Management,BBC/B,73.75,3.66
+2012/2013,2012,National University of Singapore,School of Design & Environment,Project & Facilities Management,BBC/C,72.5,3.65
+2011/2012,2011,National University of Singapore,School of Design & Environment,Project & Facilities Management,BBB/C,75,3.61
+2010/2011,2010,National University of Singapore,School of Design & Environment,Project & Facilities Management,BBB/C,75,3.54
+2009/2010,2009,National University of Singapore,School of Design & Environment,Project & Facilities Management,BBB/B,76.25,3.43
+2008/2009,2008,National University of Singapore,School of Design & Environment,Project & Facilities Management,BBC/C,72.5,3.41
+2019/2020,2019,National University of Singapore,School of Design & Environment,Real Estate,BCC/B,71.25,3.58
+2018/2019,2018,National University of Singapore,School of Design & Environment,Real Estate,BCC/C,70,3.54
+2017/2018,2017,National University of Singapore,School of Design & Environment,Real Estate,BBC/B,73.75,3.68
+2016/2017,2016,National University of Singapore,School of Design & Environment,Real Estate,BBB/B,76.25,3.65
+2015/2016,2015,National University of Singapore,School of Design & Environment,Real Estate,BBC/C,72.5,3.71
+2014/2015,2014,National University of Singapore,School of Design & Environment,Real Estate,BBC/C,72.5,3.74
+2013/2014,2013,National University of Singapore,School of Design & Environment,Real Estate,BBB/C,75,3.65
+2012/2013,2012,National University of Singapore,School of Design & Environment,Real Estate,BBC/B,73.75,3.67
+2011/2012,2011,National University of Singapore,School of Design & Environment,Real Estate,BBB/C,75,3.65
+2010/2011,2010,National University of Singapore,School of Design & Environment,Real Estate,BBB/B,76.25,3.46
+2009/2010,2009,National University of Singapore,School of Design & Environment,Real Estate,BBB/C,75,3.4
+2008/2009,2008,National University of Singapore,School of Design & Environment,Real Estate,BBC/B,73.75,3.37
+2019/2020,2019,National University of Singapore,Faculty of Engineering,Engineering,BCC/C,70,No Data
+2018/2019,2018,National University of Singapore,Faculty of Engineering,Engineering,BCC/C,70,No Data
+2017/2018,2017,National University of Singapore,Faculty of Engineering,Engineering,BBB/C,75,No Data
+2016/2017,2016,National University of Singapore,Faculty of Engineering,Engineering,ABB/B,78.75,No Data
+2015/2016,2015,National University of Singapore,Faculty of Engineering,Engineering,BBC/B,73.75,No Data
+2014/2015,2014,National University of Singapore,Faculty of Engineering,Engineering,BBC/B,73.75,No Data
+2013/2014,2013,National University of Singapore,Faculty of Engineering,Engineering,BBC/C,72.5,No Data
+2012/2013,2012,National University of Singapore,Faculty of Engineering,Engineering,ABB/C,77.5,No Data
+2011/2012,2011,National University of Singapore,Faculty of Engineering,Engineering,BBB/C,75,No Data
+2010/2011,2010,National University of Singapore,Faculty of Engineering,Engineering,BBC/B,73.75,No Data
+2009/2010,2009,National University of Singapore,Faculty of Engineering,Engineering,ABB/B,78.75,No Data
+2008/2009,2008,National University of Singapore,Faculty of Engineering,Engineering,BBB/A,77.5,No Data
+2019/2020,2019,National University of Singapore,Faculty of Engineering,Biomedical Engineering,BBC/B,73.75,3.71
+2018/2019,2018,National University of Singapore,Faculty of Engineering,Biomedical Engineering,BCC/B,71.25,3.73
+2017/2018,2017,National University of Singapore,Faculty of Engineering,Biomedical Engineering,BBB/B,76.25,3.87
+2016/2017,2016,National University of Singapore,Faculty of Engineering,Biomedical Engineering,ABB/C,77.5,3.82
+2015/2016,2015,National University of Singapore,Faculty of Engineering,Biomedical Engineering,BBB/C,75,3.82
+2014/2015,2014,National University of Singapore,Faculty of Engineering,Biomedical Engineering,BBC/C,72.5,3.74
+2013/2014,2013,National University of Singapore,Faculty of Engineering,Biomedical Engineering,BCC/B,71.25,3.79
+2012/2013,2012,National University of Singapore,Faculty of Engineering,Biomedical Engineering,ABB/C,77.5,3.76
+2011/2012,2011,National University of Singapore,Faculty of Engineering,Biomedical Engineering,AAB/C,80,3.7
+2010/2011,2010,National University of Singapore,Faculty of Engineering,Biomedical Engineering,ABB/B,78.75,No Data
+2009/2010,2009,National University of Singapore,Faculty of Engineering,Biomedical Engineering,AAB/C,80,No Data
+2008/2009,2008,National University of Singapore,Faculty of Engineering,Biomedical Engineering,ABB/A,80,No Data
+2019/2020,2019,National University of Singapore,Faculty of Engineering,Chemical Engineering,BBC/B,73.75,3.65
+2018/2019,2018,National University of Singapore,Faculty of Engineering,Chemical Engineering,BBC/B,73.75,3.66
+2017/2018,2017,National University of Singapore,Faculty of Engineering,Chemical Engineering,ABB/C,77.5,3.87
+2016/2017,2016,National University of Singapore,Faculty of Engineering,Chemical Engineering,AAA/B,83.75,3.86
+2015/2016,2015,National University of Singapore,Faculty of Engineering,Chemical Engineering,AAB/B,81.25,3.87
+2014/2015,2014,National University of Singapore,Faculty of Engineering,Chemical Engineering,AAA/B,83.75,3.87
+2013/2014,2013,National University of Singapore,Faculty of Engineering,Chemical Engineering,AAB/C,80,3.88
+2012/2013,2012,National University of Singapore,Faculty of Engineering,Chemical Engineering,AAA/B,83.75,3.92
+2011/2012,2011,National University of Singapore,Faculty of Engineering,Chemical Engineering,AAA/A,85,3.69
+2010/2011,2010,National University of Singapore,Faculty of Engineering,Chemical Engineering,AAA/B,83.75,3.9
+2009/2010,2009,National University of Singapore,Faculty of Engineering,Chemical Engineering,AAA/A,85,3.87
+2008/2009,2008,National University of Singapore,Faculty of Engineering,Chemical Engineering,AAA/A,85,3.88
+2019/2020,2019,National University of Singapore,Faculty of Engineering,Civil Engineering,CCD/B,66.25,3.71
+2018/2019,2018,National University of Singapore,Faculty of Engineering,Civil Engineering,BBC/C,72.5,3.65
+2017/2018,2017,National University of Singapore,Faculty of Engineering,Civil Engineering,BBB/C,75,3.72
+2016/2017,2016,National University of Singapore,Faculty of Engineering,Civil Engineering,BBB/B,76.25,3.7
+2015/2016,2015,National University of Singapore,Faculty of Engineering,Civil Engineering,BBC/B,73.75,3.72
+2014/2015,2014,National University of Singapore,Faculty of Engineering,Civil Engineering,BBC/B,73.75,3.75
+2013/2014,2013,National University of Singapore,Faculty of Engineering,Civil Engineering,BBC/C,72.5,3.74
+2012/2013,2012,National University of Singapore,Faculty of Engineering,Civil Engineering,BBC/B,73.75,3.81
+2011/2012,2011,National University of Singapore,Faculty of Engineering,Civil Engineering,BBB/B,76.25,3.7
+2010/2011,2010,National University of Singapore,Faculty of Engineering,Civil Engineering,BBB/C,75,3.55
+2009/2010,2009,National University of Singapore,Faculty of Engineering,Civil Engineering,BBB/B,76.25,3.51
+2008/2009,2008,National University of Singapore,Faculty of Engineering,Civil Engineering,BBC/C,72.5,3.26
+2019/2020,2019,National University of Singapore,Faculty of Engineering,Electrical Engineering,CCC/C,67.5,3.68
+2018/2019,2018,National University of Singapore,Faculty of Engineering,Electrical Engineering,BCC/B,71.25,3.69
+2017/2018,2017,National University of Singapore,Faculty of Engineering,Electrical Engineering,BBC/B,73.75,3.69
+2016/2017,2016,National University of Singapore,Faculty of Engineering,Electrical Engineering,BBB/C,75,3.68
+2015/2016,2015,National University of Singapore,Faculty of Engineering,Electrical Engineering,BBB/C,75,3.7
+2014/2015,2014,National University of Singapore,Faculty of Engineering,Electrical Engineering,BCC/B,71.25,3.74
+2013/2014,2013,National University of Singapore,Faculty of Engineering,Electrical Engineering,BCC/B,71.25,3.69
+2012/2013,2012,National University of Singapore,Faculty of Engineering,Electrical Engineering,BCC/B,71.25,3.78
+2011/2012,2011,National University of Singapore,Faculty of Engineering,Electrical Engineering,BBC/B,73.75,3.73
+2010/2011,2010,National University of Singapore,Faculty of Engineering,Electrical Engineering,BBB/C,75,3.67
+2009/2010,2009,National University of Singapore,Faculty of Engineering,Electrical Engineering,BBB/C,75,3.63
+2008/2009,2008,National University of Singapore,Faculty of Engineering,Electrical Engineering,BBB/C,75,3.55
+2019/2020,2019,National University of Singapore,Faculty of Engineering,Environmental Engineering,BCC/B,71.25,3.57
+2018/2019,2018,National University of Singapore,Faculty of Engineering,Environmental Engineering,BCC/B,71.25,3.59
+2017/2018,2017,National University of Singapore,Faculty of Engineering,Environmental Engineering,BBC/B,73.75,3.69
+2016/2017,2016,National University of Singapore,Faculty of Engineering,Environmental Engineering,BBB/C,75,3.71
+2015/2016,2015,National University of Singapore,Faculty of Engineering,Environmental Engineering,BBC/B,73.75,3.69
+2014/2015,2014,National University of Singapore,Faculty of Engineering,Environmental Engineering,BBC/B,73.75,3.72
+2013/2014,2013,National University of Singapore,Faculty of Engineering,Environmental Engineering,BCC/B,71.25,3.66
+2012/2013,2012,National University of Singapore,Faculty of Engineering,Environmental Engineering,BBB/C,75,3.74
+2011/2012,2011,National University of Singapore,Faculty of Engineering,Environmental Engineering,AAA/C,82.5,3.74
+2010/2011,2010,National University of Singapore,Faculty of Engineering,Environmental Engineering,AAA/C,82.5,3.66
+2009/2010,2009,National University of Singapore,Faculty of Engineering,Environmental Engineering,AAA/A,85,3.67
+2008/2009,2008,National University of Singapore,Faculty of Engineering,Environmental Engineering,AAA/A,85,3.67
+2019/2020,2019,National University of Singapore,Faculty of Engineering,Engineering Science,BCC/C,70,3.83
+2018/2019,2018,National University of Singapore,Faculty of Engineering,Engineering Science,BBC/B,73.75,No Data
+2017/2018,2017,National University of Singapore,Faculty of Engineering,Engineering Science,BBB/B,76.25,No Data
+2016/2017,2016,National University of Singapore,Faculty of Engineering,Engineering Science,AAB/B,81.25,3.86
+2015/2016,2015,National University of Singapore,Faculty of Engineering,Engineering Science,BBB/C,75,3.92
+2014/2015,2014,National University of Singapore,Faculty of Engineering,Engineering Science,BBC/C,72.5,3.91
+2013/2014,2013,National University of Singapore,Faculty of Engineering,Engineering Science,BBC/C,72.5,No Data
+2012/2013,2012,National University of Singapore,Faculty of Engineering,Engineering Science,BBB/C,75,No Data
+2011/2012,2011,National University of Singapore,Faculty of Engineering,Engineering Science,BBB/B,76.25,No Data
+2010/2011,2010,National University of Singapore,Faculty of Engineering,Engineering Science,ABB/C,77.5,No Data
+2009/2010,2009,National University of Singapore,Faculty of Engineering,Engineering Science,AAB/C,80,No Data
+2008/2009,2008,National University of Singapore,Faculty of Engineering,Engineering Science,BBB/A,77.5,No Data
+2019/2020,2019,National University of Singapore,Faculty of Engineering,Industrial & Systems Engineering,BCC/B,71.25,No Data
+2018/2019,2018,National University of Singapore,Faculty of Engineering,Industrial & Systems Engineering,BBC/C,72.5,No Data
+2017/2018,2017,National University of Singapore,Faculty of Engineering,Industrial & Systems Engineering,BBB/B,76.25,No Data
+2016/2017,2016,National University of Singapore,Faculty of Engineering,Industrial & Systems Engineering,AAB/C,80,3.94
+2015/2016,2015,National University of Singapore,Faculty of Engineering,Industrial & Systems Engineering,ABB/C,77.5,No Data
+2014/2015,2014,National University of Singapore,Faculty of Engineering,Industrial & Systems Engineering,ABB/B,78.75,No Data
+2013/2014,2013,National University of Singapore,Faculty of Engineering,Industrial & Systems Engineering,ABB/B,78.75,No Data
+2012/2013,2012,National University of Singapore,Faculty of Engineering,Industrial & Systems Engineering,AAB/B,81.25,No Data
+2011/2012,2011,National University of Singapore,Faculty of Engineering,Industrial & Systems Engineering,AAA/B,83.75,No Data
+2010/2011,2010,National University of Singapore,Faculty of Engineering,Industrial & Systems Engineering,AAA/B,83.75,No Data
+2009/2010,2009,National University of Singapore,Faculty of Engineering,Industrial & Systems Engineering,AAA/A,85,3.79
+2008/2009,2008,National University of Singapore,Faculty of Engineering,Industrial & Systems Engineering,AAA/A,85,No Data
+2019/2020,2019,National University of Singapore,Faculty of Engineering,Materials Science & Engineering,CCC/C,67.5,3.76
+2018/2019,2018,National University of Singapore,Faculty of Engineering,Materials Science & Engineering,BCC/B,71.25,3.74
+2017/2018,2017,National University of Singapore,Faculty of Engineering,Materials Science & Engineering,BBC/C,72.5,No Data
+2016/2017,2016,National University of Singapore,Faculty of Engineering,Materials Science & Engineering,BBB/B,76.25,3.89
+2015/2016,2015,National University of Singapore,Faculty of Engineering,Materials Science & Engineering,BBC/B,73.75,3.94
+2014/2015,2014,National University of Singapore,Faculty of Engineering,Materials Science & Engineering,BBC/B,73.75,3.85
+2013/2014,2013,National University of Singapore,Faculty of Engineering,Materials Science & Engineering,BCC/B,71.25,No Data
+2012/2013,2012,National University of Singapore,Faculty of Engineering,Materials Science & Engineering,AAB/B,81.25,No Data
+2011/2012,2011,National University of Singapore,Faculty of Engineering,Materials Science & Engineering,AAB/B,81.25,No Data
+2010/2011,2010,National University of Singapore,Faculty of Engineering,Materials Science & Engineering,ABB/C,77.5,No Data
+2009/2010,2009,National University of Singapore,Faculty of Engineering,Materials Science & Engineering,AAA/C,82.5,No Data
+2008/2009,2008,National University of Singapore,Faculty of Engineering,Materials Science & Engineering,AAA/A,85,No Data
+2019/2020,2019,National University of Singapore,Faculty of Engineering,Mechanical Engineering,BCC/B,71.25,3.65
+2018/2019,2018,National University of Singapore,Faculty of Engineering,Mechanical Engineering,BCC/B,71.25,3.66
+2017/2018,2017,National University of Singapore,Faculty of Engineering,Mechanical Engineering,BBB/C,75,3.8
+2016/2017,2016,National University of Singapore,Faculty of Engineering,Mechanical Engineering,AAB/C,80,3.81
+2015/2016,2015,National University of Singapore,Faculty of Engineering,Mechanical Engineering,BBB/B,76.25,3.83
+2014/2015,2014,National University of Singapore,Faculty of Engineering,Mechanical Engineering,BBB/B,76.25,3.89
+2013/2014,2013,National University of Singapore,Faculty of Engineering,Mechanical Engineering,BCC/B,71.25,3.75
+2012/2013,2012,National University of Singapore,Faculty of Engineering,Mechanical Engineering,ABB/C,77.5,3.86
+2011/2012,2011,National University of Singapore,Faculty of Engineering,Mechanical Engineering,ABB/C,77.5,3.86
+2010/2011,2010,National University of Singapore,Faculty of Engineering,Mechanical Engineering,BBB/C,75,3.79
+2009/2010,2009,National University of Singapore,Faculty of Engineering,Mechanical Engineering,ABB/B,78.75,3.68
+2008/2009,2008,National University of Singapore,Faculty of Engineering,Mechanical Engineering,BBB/A,77.5,3.64
+2019/2020,2019,National University of Singapore,School of Computing,Computing (Business Analytics),AAA/A,85,3.81
+2018/2019,2018,National University of Singapore,School of Computing,Computing (Business Analytics),AAA/B,83.75,3.73
+2017/2018,2017,National University of Singapore,School of Computing,Computing (Business Analytics),AAA/A,85,3.81
+2016/2017,2016,National University of Singapore,School of Computing,Computing (Business Analytics),AAA/A,85,3.9
+2015/2016,2015,National University of Singapore,School of Computing,Computing (Business Analytics),AAA/A,85,3.81
+2014/2015,2014,National University of Singapore,School of Computing,Computing (Business Analytics),AAB/B,81.25,3.84
+2013/2014,2013,National University of Singapore,School of Computing,Computing (Business Analytics),AAB/B,81.25,3.68
+2012/2013,2012,National University of Singapore,School of Computing,Computing (Business Analytics),No Data,No Data,No Data
+2011/2012,2011,National University of Singapore,School of Computing,Computing (Business Analytics),No Data,No Data,No Data
+2010/2011,2010,National University of Singapore,School of Computing,Computing (Business Analytics),No Data,No Data,No Data
+2009/2010,2009,National University of Singapore,School of Computing,Computing (Business Analytics),No Data,No Data,No Data
+2008/2009,2008,National University of Singapore,School of Computing,Computing (Business Analytics),No Data,No Data,No Data
+2019/2020,2019,National University of Singapore,School of Computing,Computing (Computer Science),AAA/A,85,3.86
+2018/2019,2018,National University of Singapore,School of Computing,Computing (Computer Science),AAA/B,83.75,3.74
+2017/2018,2017,National University of Singapore,School of Computing,Computing (Computer Science),AAA/A,85,3.77
+2016/2017,2016,National University of Singapore,School of Computing,Computing (Computer Science),AAA/A,85,3.75
+2015/2016,2015,National University of Singapore,School of Computing,Computing (Computer Science),AAA/A,85,3.74
+2014/2015,2014,National University of Singapore,School of Computing,Computing (Computer Science),AAA/C,82.5,3.65
+2013/2014,2013,National University of Singapore,School of Computing,Computing (Computer Science),BBB/C,75,3.61
+2012/2013,2012,National University of Singapore,School of Computing,Computing (Computer Science),BBC/C,72.5,3.67
+2011/2012,2011,National University of Singapore,School of Computing,Computing (Computer Science),BBB/B,76.25,3.66
+2010/2011,2010,National University of Singapore,School of Computing,Computing (Computer Science),ABB/B,78.75,3.63
+2009/2010,2009,National University of Singapore,School of Computing,Computing (Computer Science),BBB/C,75,3.58
+2008/2009,2008,National University of Singapore,School of Computing,Computing (Computer Science),BCC/B,71.25,3.54
+2019/2020,2019,National University of Singapore,School of Computing,Computing (Information Security),AAA/A,85,3.84
+2018/2019,2018,National University of Singapore,School of Computing,Computing (Information Security),AAA/B,83.75,3.76
+2017/2018,2017,National University of Singapore,School of Computing,Computing (Information Security),AAA/A,85,3.82
+2016/2017,2016,National University of Singapore,School of Computing,Computing (Information Security),AAB/B,81.25,3.73
+2015/2016,2015,National University of Singapore,School of Computing,Computing (Information Security),AAA/B,83.75,No Data
+2014/2015,2014,National University of Singapore,School of Computing,Computing (Information Security),No Data,No Data,No Data
+2013/2014,2013,National University of Singapore,School of Computing,Computing (Information Security),No Data,No Data,No Data
+2012/2013,2012,National University of Singapore,School of Computing,Computing (Information Security),No Data,No Data,No Data
+2011/2012,2011,National University of Singapore,School of Computing,Computing (Information Security),No Data,No Data,No Data
+2010/2011,2010,National University of Singapore,School of Computing,Computing (Information Security),No Data,No Data,No Data
+2009/2010,2009,National University of Singapore,School of Computing,Computing (Information Security),No Data,No Data,No Data
+2008/2009,2008,National University of Singapore,School of Computing,Computing (Information Security),No Data,No Data,No Data
+2019/2020,2019,National University of Singapore,School of Computing,Computing (Information Systems),AAA/A,85,3.82
+2018/2019,2018,National University of Singapore,School of Computing,Computing (Information Systems),AAA/C,82.5,3.61
+2017/2018,2017,National University of Singapore,School of Computing,Computing (Information Systems),AAB/B,81.25,3.65
+2016/2017,2016,National University of Singapore,School of Computing,Computing (Information Systems),AAB/C,80,3.63
+2015/2016,2015,National University of Singapore,School of Computing,Computing (Information Systems),AAA/B,83.75,3.67
+2014/2015,2014,National University of Singapore,School of Computing,Computing (Information Systems),AAB/B,81.25,3.7
+2013/2014,2013,National University of Singapore,School of Computing,Computing (Information Systems),AAB/B,81.25,3.59
+2012/2013,2012,National University of Singapore,School of Computing,Computing (Information Systems),BBB/C,75,3.65
+2011/2012,2011,National University of Singapore,School of Computing,Computing (Information Systems),BBB/B,76.25,3.74
+2010/2011,2010,National University of Singapore,School of Computing,Computing (Information Systems),ABB/C,77.5,3.66
+2009/2010,2009,National University of Singapore,Faculty of Engineering & School of Computing,Computing (Information Systems),No Data,No Data,No Data
+2008/2009,2008,National University of Singapore,Faculty of Engineering & School of Computing,Computing (Information Systems),No Data,No Data,No Data
+2019/2020,2019,National University of Singapore,Faculty of Engineering & School of Computing,Computer Engineering,AAB/C,80,3.87
+2018/2019,2018,National University of Singapore,Faculty of Engineering & School of Computing,Computer Engineering,AAB/C,80,3.74
+2017/2018,2017,National University of Singapore,Faculty of Engineering & School of Computing,Computer Engineering,AAB/C,80,3.81
+2016/2017,2016,National University of Singapore,Faculty of Engineering & School of Computing,Computer Engineering,AAB/C,80,3.77
+2015/2016,2015,National University of Singapore,Faculty of Engineering & School of Computing,Computer Engineering,BBB/B,76.25,3.77
+2014/2015,2014,National University of Singapore,Faculty of Engineering & School of Computing,Computer Engineering,BBC/C,72.5,3.78
+2013/2014,2013,National University of Singapore,Faculty of Engineering & School of Computing,Computer Engineering,BCC/B,71.25,3.68
+2012/2013,2012,National University of Singapore,Faculty of Engineering & School of Computing,Computer Engineering,BCC/B,71.25,3.81
+2011/2012,2011,National University of Singapore,Faculty of Engineering & School of Computing,Computer Engineering,BBC/B,73.75,3.77
+2010/2011,2010,National University of Singapore,Faculty of Engineering & School of Computing,Computer Engineering,BBB/B,76.25,3.75
+2009/2010,2009,National University of Singapore,Faculty of Engineering & School of Computing,Computer Engineering,BBB/C,75,3.61
+2008/2009,2008,National University of Singapore,Faculty of Engineering & School of Computing,Computer Engineering,BBB/C,75,3.33
+2019/2020,2019,National University of Singapore,Faculty of Science,Science (Pharmaceutical Science),AAA/A,85,No Data
+2018/2019,2018,National University of Singapore,Faculty of Science,Science (Pharmaceutical Science),AAA/A,85,No Data
+2017/2018,2017,National University of Singapore,Faculty of Science,Science (Pharmaceutical Science),No Data,No Data,No Data
+2016/2017,2016,National University of Singapore,Faculty of Science,Science (Pharmaceutical Science),No Data,No Data,No Data
+2015/2016,2015,National University of Singapore,Faculty of Science,Science (Pharmaceutical Science),No Data,No Data,No Data
+2014/2015,2014,National University of Singapore,Faculty of Science,Science (Pharmaceutical Science),No Data,No Data,No Data
+2013/2014,2013,National University of Singapore,Faculty of Science,Science (Pharmaceutical Science),No Data,No Data,No Data
+2012/2013,2012,National University of Singapore,Faculty of Science,Science (Pharmaceutical Science),No Data,No Data,No Data
+2011/2012,2011,National University of Singapore,Faculty of Science,Science (Pharmaceutical Science),No Data,No Data,No Data
+2010/2011,2010,National University of Singapore,Faculty of Science,Science (Pharmaceutical Science),No Data,No Data,No Data
+2009/2010,2009,National University of Singapore,Faculty of Science,Science (Pharmaceutical Science),No Data,No Data,No Data
+2008/2009,2008,National University of Singapore,Faculty of Science,Science (Pharmaceutical Science),No Data,No Data,No Data
+2019/2020,2019,National University of Singapore,Faculty of Science,Pharmacy,AAA/A,85,No Data
+2018/2019,2018,National University of Singapore,Faculty of Science,Pharmacy,AAA/A,85,No Data
+2017/2018,2017,National University of Singapore,Faculty of Science,Pharmacy,AAA/A,85,3.93
+2016/2017,2016,National University of Singapore,Faculty of Science,Pharmacy,AAA/A,85,3.92
+2015/2016,2015,National University of Singapore,Faculty of Science,Pharmacy,AAA/A,85,3.92
+2014/2015,2014,National University of Singapore,Faculty of Science,Pharmacy,AAA/A,85,3.94
+2013/2014,2013,National University of Singapore,Faculty of Science,Pharmacy,AAA/A,85,3.89
+2012/2013,2012,National University of Singapore,Faculty of Science,Pharmacy,AAA/A,85,3.9
+2011/2012,2011,National University of Singapore,Faculty of Science,Pharmacy,AAA/B,83.75,3.87
+2010/2011,2010,National University of Singapore,Faculty of Science,Pharmacy,AAA/A,85,No Data
+2009/2010,2009,National University of Singapore,Faculty of Science,Pharmacy,AAA/A,85,No Data
+2008/2009,2008,National University of Singapore,Faculty of Science,Pharmacy,AAA/B,83.75,No Data
+2019/2020,2019,National University of Singapore,Faculty of Science,Data Science & Analytics,AAB/C,80,No Data
+2018/2019,2018,National University of Singapore,Faculty of Science,Data Science & Analytics,AAB/C,80,No Data
+2017/2018,2017,National University of Singapore,Faculty of Science,Data Science & Analytics,AAA/C,82.5,No Data
+2016/2017,2016,National University of Singapore,Faculty of Science,Data Science & Analytics,AAB/C,80,No Data
+2015/2016,2015,National University of Singapore,Faculty of Science,Data Science & Analytics,No Data,No Data,No Data
+2014/2015,2014,National University of Singapore,Faculty of Science,Data Science & Analytics,No Data,No Data,No Data
+2013/2014,2013,National University of Singapore,Faculty of Science,Data Science & Analytics,No Data,No Data,No Data
+2012/2013,2012,National University of Singapore,Faculty of Science,Data Science & Analytics,No Data,No Data,No Data
+2011/2012,2011,National University of Singapore,Faculty of Science,Data Science & Analytics,No Data,No Data,No Data
+2010/2011,2010,National University of Singapore,Faculty of Science,Data Science & Analytics,No Data,No Data,No Data
+2009/2010,2009,National University of Singapore,Faculty of Science,Data Science & Analytics,No Data,No Data,No Data
+2008/2009,2008,National University of Singapore,Faculty of Science,Data Science & Analytics,No Data,No Data,No Data
+2019/2020,2019,National University of Singapore,Faculty of Science,Science (Food Science & Technology),AAA/A,85,No Data
+2018/2019,2018,National University of Singapore,Faculty of Science,Science (Food Science & Technology),AAA/C,82.5,3.85
+2017/2018,2017,National University of Singapore,Faculty of Science,Science (Food Science & Technology),AAB/B,81.25,No Data
+2016/2017,2016,National University of Singapore,Faculty of Science,Science (Food Science & Technology),No Data,No Data,3.92
+2015/2016,2015,National University of Singapore,Faculty of Science,Science (Food Science & Technology),No Data,No Data,3.75
+2014/2015,2014,National University of Singapore,Faculty of Science,Science (Food Science & Technology),No Data,No Data,3.88
+2013/2014,2013,National University of Singapore,Faculty of Science,Science (Food Science & Technology),No Data,No Data,3.82
+2012/2013,2012,National University of Singapore,Faculty of Science,Science (Food Science & Technology),No Data,No Data,3.88
+2011/2012,2011,National University of Singapore,Faculty of Science,Science (Food Science & Technology),No Data,No Data,3.79
+2010/2011,2010,National University of Singapore,Faculty of Science,Science (Food Science & Technology),No Data,No Data,No Data
+2009/2010,2009,National University of Singapore,Faculty of Science,Science (Food Science & Technology),No Data,No Data,No Data
+2008/2009,2008,National University of Singapore,Faculty of Science,Science (Food Science & Technology),No Data,No Data,No Data
+2019/2020,2019,National University of Singapore,Faculty of Science,Science,AAA/C,82.5,No Data
+2018/2019,2018,National University of Singapore,Faculty of Science,Science,AAB/C,80,No Data
+2017/2018,2017,National University of Singapore,Faculty of Science,Science,ABB/B,78.75,No Data
+2016/2017,2016,National University of Singapore,Faculty of Science,Science,ABB/C,77.5,No Data
+2015/2016,2015,National University of Singapore,Faculty of Science,Science,BBB/C,75,No Data
+2014/2015,2014,National University of Singapore,Faculty of Science,Science,BBC/C,72.5,No Data
+2013/2014,2013,National University of Singapore,Faculty of Science,Science,BBC/B,73.75,No Data
+2012/2013,2012,National University of Singapore,Faculty of Science,Science,BBC/B,73.75,No Data
+2011/2012,2011,National University of Singapore,Faculty of Science,Science,ABB/B,78.75,No Data
+2010/2011,2010,National University of Singapore,Faculty of Science,Science,ABB/B,78.75,No Data
+2009/2010,2009,National University of Singapore,Faculty of Science,Science,ABB/B,78.75,No Data
+2008/2009,2008,National University of Singapore,Faculty of Science,Science,BBB/B,76.25,No Data
+2019/2020,2019,National University of Singapore,School of Business,Business Admin,AAB/C,80,3.73
+2018/2019,2018,National University of Singapore,School of Business,Business Admin,ABB/B,78.75,3.71
+2017/2018,2017,National University of Singapore,School of Business,Business Admin,AAB/C,80,3.81
+2016/2017,2016,National University of Singapore,School of Business,Business Admin,AAA/C,82.5,3.85
+2015/2016,2015,National University of Singapore,School of Business,Business Admin,AAA/C,82.5,3.85
+2014/2015,2014,National University of Singapore,School of Business,Business Admin,AAA/C,82.5,3.86
+2013/2014,2013,National University of Singapore,School of Business,Business Admin,AAA/B,83.75,3.82
+2012/2013,2012,National University of Singapore,School of Business,Business Admin,AAA/B,83.75,3.82
+2011/2012,2011,National University of Singapore,School of Business,Business Admin,AAA/A,85,3.79
+2010/2011,2010,National University of Singapore,School of Business,Business Admin,AAA/B,83.75,3.73
+2009/2010,2009,National University of Singapore,School of Business,Business Admin,AAA/C,82.5,3.75
+2008/2009,2008,National University of Singapore,School of Business,Business Admin,AAB/B,81.25,3.5
+2019/2020,2019,National University of Singapore,School of Business,Business Admin (Accountancy),AAB/C,80,3.76
+2018/2019,2018,National University of Singapore,School of Business,Business Admin (Accountancy),AAB/C,80,3.73
+2017/2018,2017,National University of Singapore,School of Business,Business Admin (Accountancy),AAA/C,82.5,3.82
+2016/2017,2016,National University of Singapore,School of Business,Business Admin (Accountancy),AAA/A,85,3.89
+2015/2016,2015,National University of Singapore,School of Business,Business Admin (Accountancy),AAA/A,85,3.87
+2014/2015,2014,National University of Singapore,School of Business,Business Admin (Accountancy),AAA/A,85,3.88
+2013/2014,2013,National University of Singapore,School of Business,Business Admin (Accountancy),AAA/A,85,3.86
+2012/2013,2012,National University of Singapore,School of Business,Business Admin (Accountancy),AAA/A,85,3.86
+2011/2012,2011,National University of Singapore,School of Business,Business Admin (Accountancy),AAA/A,85,3.82
+2010/2011,2010,National University of Singapore,School of Business,Business Admin (Accountancy),AAA/A,85,3.81
+2009/2010,2009,National University of Singapore,School of Business,Business Admin (Accountancy),AAA/B,83.75,3.85
+2008/2009,2008,National University of Singapore,School of Business,Business Admin (Accountancy),AAA/B,83.75,3.64
+2019/2020,2019,National University of Singapore,Faculty of Arts & Social Sciences,Arts & Social Sciences,BBB/C,75,3.67
+2018/2019,2018,National University of Singapore,Faculty of Arts & Social Sciences,Arts & Social Sciences,BBC/B,73.75,3.74
+2017/2018,2017,National University of Singapore,Faculty of Arts & Social Sciences,Arts & Social Sciences,BBB/B,76.25,3.74
+2016/2017,2016,National University of Singapore,Faculty of Arts & Social Sciences,Arts & Social Sciences,ABB/B,78.75,3.73
+2015/2016,2015,National University of Singapore,Faculty of Arts & Social Sciences,Arts & Social Sciences,BBB/B,76.25,3.74
+2014/2015,2014,National University of Singapore,Faculty of Arts & Social Sciences,Arts & Social Sciences,BBB/B,76.25,3.76
+2013/2014,2013,National University of Singapore,Faculty of Arts & Social Sciences,Arts & Social Sciences,ABB/C,77.5,3.68
+2012/2013,2012,National University of Singapore,Faculty of Arts & Social Sciences,Arts & Social Sciences,BBB/B,76.25,3.68
+2011/2012,2011,National University of Singapore,Faculty of Arts & Social Sciences,Arts & Social Sciences,ABB/C,77.5,3.68
+2010/2011,2010,National University of Singapore,Faculty of Arts & Social Sciences,Arts & Social Sciences,ABB/B,78.75,3.55
+2009/2010,2009,National University of Singapore,Faculty of Arts & Social Sciences,Arts & Social Sciences,ABB/C,77.5,3.48
+2008/2009,2008,National University of Singapore,Faculty of Arts & Social Sciences,Arts & Social Sciences,BBC/C,72.5,3.39
+2019/2020,2019,National University of Singapore,Environmental Studies,Environmental Studies,AAA/C,82.5,No Data
+2018/2019,2018,National University of Singapore,Environmental Studies,Environmental Studies,AAA/C,82.5,3.74
+2017/2018,2017,National University of Singapore,Environmental Studies,Environmental Studies,AAA/C,82.5,3.81
+2016/2017,2016,National University of Singapore,Environmental Studies,Environmental Studies,AAA/A,85,3.8
+2015/2016,2015,National University of Singapore,Environmental Studies,Environmental Studies,AAA/C,82.5,3.83
+2014/2015,2014,National University of Singapore,Environmental Studies,Environmental Studies,AAA/B,83.75,3.81
+2013/2014,2013,National University of Singapore,Environmental Studies,Environmental Studies,AAB/B,81.25,3.77
+2012/2013,2012,National University of Singapore,Environmental Studies,Environmental Studies,AAB/B,81.25,No Data
+2011/2012,2011,National University of Singapore,Environmental Studies,Environmental Studies,AAA/C,82.5,No Data
+2010/2011,2010,National University of Singapore,Environmental Studies,Environmental Studies,No Data,No Data,No Data
+2009/2010,2009,National University of Singapore,Environmental Studies,Environmental Studies,No Data,No Data,No Data
+2008/2009,2008,National University of Singapore,Environmental Studies,Environmental Studies,No Data,No Data,No Data
+2019/2020,2019,Nanyang Technological University,Lee Kong Chian School of Medicine,Medicine,AAA/A,85,No Data
+2018/2019,2018,Nanyang Technological University,Lee Kong Chian School of Medicine,Medicine,AAA/A,85,No Data
+2017/2018,2017,Nanyang Technological University,Lee Kong Chian School of Medicine,Medicine,AAA/A,85,No Data
+2016/2017,2016,Nanyang Technological University,Lee Kong Chian School of Medicine,Medicine,AAA/A,85,No Data
+2015/2016,2015,Nanyang Technological University,Lee Kong Chian School of Medicine,Medicine,AAA/A,85,No Data
+2014/2015,2014,Nanyang Technological University,Lee Kong Chian School of Medicine,Medicine,AAA/A,85,No Data
+2013/2014,2013,Nanyang Technological University,Lee Kong Chian School of Medicine,Medicine,AAA/A,85,No Data
+2012/2013,2012,Nanyang Technological University,Lee Kong Chian School of Medicine,Medicine,No Data,No Data,No Data
+2011/2012,2011,Nanyang Technological University,Lee Kong Chian School of Medicine,Medicine,No Data,No Data,No Data
+2010/2011,2010,Nanyang Technological University,Lee Kong Chian School of Medicine,Medicine,No Data,No Data,No Data
+2009/2010,2009,Nanyang Technological University,Lee Kong Chian School of Medicine,Medicine,No Data,No Data,No Data
+2008/2009,2008,Nanyang Technological University,Lee Kong Chian School of Medicine,Medicine,No Data,No Data,No Data
+2019/2020,2019,Nanyang Technological University,College of Engineering,Renaissance Engineering,AAA/A,85,No Data
+2018/2019,2018,Nanyang Technological University,College of Engineering,Renaissance Engineering,AAA/A,85,No Data
+2017/2018,2017,Nanyang Technological University,College of Engineering,Renaissance Engineering,AAA/A,85,No Data
+2016/2017,2016,Nanyang Technological University,College of Engineering,Renaissance Engineering,AAA/A,85,No Data
+2015/2016,2015,Nanyang Technological University,College of Engineering,Renaissance Engineering,AAA/A,85,No Data
+2014/2015,2014,Nanyang Technological University,College of Engineering,Renaissance Engineering,AAA/A,85,No Data
+2013/2014,2013,Nanyang Technological University,College of Engineering,Renaissance Engineering,AAA/A,85,No Data
+2012/2013,2012,Nanyang Technological University,College of Engineering,Renaissance Engineering,AAA/A,85,No Data
+2011/2012,2011,Nanyang Technological University,College of Engineering,Renaissance Engineering,AAA/A,85,No Data
+2010/2011,2010,Nanyang Technological University,College of Engineering,Renaissance Engineering,No Data,No Data,No Data
+2009/2010,2009,Nanyang Technological University,College of Engineering,Renaissance Engineering,No Data,No Data,No Data
+2008/2009,2008,Nanyang Technological University,College of Engineering,Renaissance Engineering,No Data,No Data,No Data
+2019/2020,2019,Nanyang Technological University,College of Engineering,Aerospace Engineering,AAA/C,82.5,3.49
+2018/2019,2018,Nanyang Technological University,College of Engineering,Aerospace Engineering,AAA/B,83.75,3.83
+2017/2018,2017,Nanyang Technological University,College of Engineering,Aerospace Engineering,AAA/A,85,3.88
+2016/2017,2016,Nanyang Technological University,College of Engineering,Aerospace Engineering,AAA/B,83.75,3.74
+2015/2016,2015,Nanyang Technological University,College of Engineering,Aerospace Engineering,AAA/B,83.75,3.88
+2014/2015,2014,Nanyang Technological University,College of Engineering,Aerospace Engineering,AAA/B,83.75,3.81
+2013/2014,2013,Nanyang Technological University,College of Engineering,Aerospace Engineering,AAB/B,81.25,3.85
+2012/2013,2012,Nanyang Technological University,College of Engineering,Aerospace Engineering,AAA/B,83.75,No Data
+2011/2012,2011,Nanyang Technological University,College of Engineering,Aerospace Engineering,AAA/B,83.75,No Data
+2010/2011,2010,Nanyang Technological University,College of Engineering,Aerospace Engineering,AAA/B,83.75,No Data
+2009/2010,2009,Nanyang Technological University,College of Engineering,Aerospace Engineering,AAA/B,83.75,No Data
+2008/2009,2008,Nanyang Technological University,College of Engineering,Aerospace Engineering,AAA/B,83.75,No Data
+2019/2020,2019,Nanyang Technological University,College of Engineering,Bioengineering,BCC/B,71.25,3.69
+2018/2019,2018,Nanyang Technological University,College of Engineering,Bioengineering,BCC/D,71.25,3.55
+2017/2018,2017,Nanyang Technological University,College of Engineering,Bioengineering,BBC/D,71.25,3.47
+2016/2017,2016,Nanyang Technological University,College of Engineering,Bioengineering,BBC/D,71.25,3.45
+2015/2016,2015,Nanyang Technological University,College of Engineering,Bioengineering,BBC/D,71.25,3.42
+2014/2015,2014,Nanyang Technological University,College of Engineering,Bioengineering,BBC/C,72.5,3.61
+2013/2014,2013,Nanyang Technological University,College of Engineering,Bioengineering,BCC/D,68.75,3.34
+2012/2013,2012,Nanyang Technological University,College of Engineering,Bioengineering,BCC/C,70,3.44
+2011/2012,2011,Nanyang Technological University,College of Engineering,Bioengineering,BBC/B,73.75,3.46
+2010/2011,2010,Nanyang Technological University,College of Engineering,Bioengineering,BBC/A,75,3.48
+2009/2010,2009,Nanyang Technological University,College of Engineering,Bioengineering,BBC/A,75,3.3
+2008/2009,2008,Nanyang Technological University,College of Engineering,Bioengineering,BBC/B,73.75,3.5
+2019/2020,2019,Nanyang Technological University,College of Engineering,Chemical & Biomolecular Engineering,AAC/C,77.5,3.67
+2018/2019,2018,Nanyang Technological University,College of Engineering,Chemical & Biomolecular Engineering,AAB/B,81.25,3.81
+2017/2018,2017,Nanyang Technological University,College of Engineering,Chemical & Biomolecular Engineering,AAA/C,82.5,3.69
+2016/2017,2016,Nanyang Technological University,College of Engineering,Chemical & Biomolecular Engineering,AAA/C,82.5,3.85
+2015/2016,2015,Nanyang Technological University,College of Engineering,Chemical & Biomolecular Engineering,AAB/C,80,3.64
+2014/2015,2014,Nanyang Technological University,College of Engineering,Chemical & Biomolecular Engineering,AAB/B,81.25,3.81
+2013/2014,2013,Nanyang Technological University,College of Engineering,Chemical & Biomolecular Engineering,AAB/B,81.25,3.48
+2012/2013,2012,Nanyang Technological University,College of Engineering,Chemical & Biomolecular Engineering,AAB/B,81.25,3.57
+2011/2012,2011,Nanyang Technological University,College of Engineering,Chemical & Biomolecular Engineering,AAB/B,81.25,3.68
+2010/2011,2010,Nanyang Technological University,College of Engineering,Chemical & Biomolecular Engineering,AAA/A,85,3.67
+2009/2010,2009,Nanyang Technological University,College of Engineering,Chemical & Biomolecular Engineering,AAA/B,83.75,3.67
+2008/2009,2008,Nanyang Technological University,College of Engineering,Chemical & Biomolecular Engineering,ABB/A,80,3.81
+2019/2020,2019,Nanyang Technological University,College of Engineering,Civil Engineering,CCC/D,66.25,3.44
+2018/2019,2018,Nanyang Technological University,College of Engineering,Civil Engineering,CCC/C,67.5,3.49
+2017/2018,2017,Nanyang Technological University,College of Engineering,Civil Engineering,BCC/D,68.75,3.71
+2016/2017,2016,Nanyang Technological University,College of Engineering,Civil Engineering,CCC/D,66.25,3.73
+2015/2016,2015,Nanyang Technological University,College of Engineering,Civil Engineering,BCC/D,68.75,3.55
+2014/2015,2014,Nanyang Technological University,College of Engineering,Civil Engineering,BCC/D,68.75,3.5
+2013/2014,2013,Nanyang Technological University,College of Engineering,Civil Engineering,CCC/D,66.25,3.49
+2012/2013,2012,Nanyang Technological University,College of Engineering,Civil Engineering,BCC/D,68.75,3.54
+2011/2012,2011,Nanyang Technological University,College of Engineering,Civil Engineering,BCC/B,71.25,3.54
+2010/2011,2010,Nanyang Technological University,College of Engineering,Civil Engineering,BCC/B,71.25,3.44
+2009/2010,2009,Nanyang Technological University,College of Engineering,Civil Engineering,BCC/C,70,3.34
+2008/2009,2008,Nanyang Technological University,College of Engineering,Civil Engineering,CCC/C,67.5,No Data
+2019/2020,2019,Nanyang Technological University,College of Engineering,Computer Engineering,BBC/B,73.75,3.58
+2018/2019,2018,Nanyang Technological University,College of Engineering,Computer Engineering,AAC/B,78.75,3.63
+2017/2018,2017,Nanyang Technological University,College of Engineering,Computer Engineering,AAB/C,80,3.61
+2016/2017,2016,Nanyang Technological University,College of Engineering,Computer Engineering,ABC/C,75,3.56
+2015/2016,2015,Nanyang Technological University,College of Engineering,Computer Engineering,BBC/D,71.25,3.53
+2014/2015,2014,Nanyang Technological University,College of Engineering,Computer Engineering,BCC/C,70,3.54
+2013/2014,2013,Nanyang Technological University,College of Engineering,Computer Engineering,BCC/D,68.75,3.51
+2012/2013,2012,Nanyang Technological University,College of Engineering,Computer Engineering,BCC/C,70,3.6
+2011/2012,2011,Nanyang Technological University,College of Engineering,Computer Engineering,BCC/B,71.25,3.55
+2010/2011,2010,Nanyang Technological University,College of Engineering,Computer Engineering,BBC/C,72.5,3.67
+2009/2010,2009,Nanyang Technological University,College of Engineering,Computer Engineering,BBC/B,73.75,3.36
+2008/2009,2008,Nanyang Technological University,College of Engineering,Computer Engineering,BCC/C,70,3.38
+2019/2020,2019,Nanyang Technological University,College of Engineering,Computer Science,AAC/C,77.5,3.56
+2018/2019,2018,Nanyang Technological University,College of Engineering,Computer Science,AAB/C,80,3.68
+2017/2018,2017,Nanyang Technological University,College of Engineering,Computer Science,AAC/B,78.75,3.65
+2016/2017,2016,Nanyang Technological University,College of Engineering,Computer Science,ABC/C,75,3.61
+2015/2016,2015,Nanyang Technological University,College of Engineering,Computer Science,BBC/D,71.25,3.54
+2014/2015,2014,Nanyang Technological University,College of Engineering,Computer Science,BCC/C,70,3.55
+2013/2014,2013,Nanyang Technological University,College of Engineering,Computer Science,BCC/D,68.75,3.55
+2012/2013,2012,Nanyang Technological University,College of Engineering,Computer Science,BCC/B,71.25,3.54
+2011/2012,2011,Nanyang Technological University,College of Engineering,Computer Science,BCC/B,71.25,3.55
+2010/2011,2010,Nanyang Technological University,College of Engineering,Computer Science,BBC/C,72.5,3.56
+2009/2010,2009,Nanyang Technological University,College of Engineering,Computer Science,BBC/C,72.5,3.33
+2008/2009,2008,Nanyang Technological University,College of Engineering,Computer Science,BCC/C,70,3.4
+2019/2020,2019,Nanyang Technological University,College of Engineering,Data Science & Artificial Intelligence,AAB/B,81.25,No Data
+2018/2019,2018,Nanyang Technological University,College of Engineering,Data Science & Artificial Intelligence,AAA/B,83.75,No Data
+2017/2018,2017,Nanyang Technological University,College of Engineering,Data Science & Artificial Intelligence,No Data,No Data,No Data
+2016/2017,2016,Nanyang Technological University,College of Engineering,Data Science & Artificial Intelligence,No Data,No Data,No Data
+2015/2016,2015,Nanyang Technological University,College of Engineering,Data Science & Artificial Intelligence,No Data,No Data,No Data
+2014/2015,2014,Nanyang Technological University,College of Engineering,Data Science & Artificial Intelligence,No Data,No Data,No Data
+2013/2014,2013,Nanyang Technological University,College of Engineering,Data Science & Artificial Intelligence,No Data,No Data,No Data
+2012/2013,2012,Nanyang Technological University,College of Engineering,Data Science & Artificial Intelligence,No Data,No Data,No Data
+2011/2012,2011,Nanyang Technological University,College of Engineering,Data Science & Artificial Intelligence,No Data,No Data,No Data
+2010/2011,2010,Nanyang Technological University,College of Engineering,Data Science & Artificial Intelligence,No Data,No Data,No Data
+2009/2010,2009,Nanyang Technological University,College of Engineering,Data Science & Artificial Intelligence,No Data,No Data,No Data
+2008/2009,2008,Nanyang Technological University,College of Engineering,Data Science & Artificial Intelligence,No Data,No Data,No Data
+2019/2020,2019,Nanyang Technological University,College of Engineering,Electrical & Electronic Engineering,BCC/D,68.75,3.43
+2018/2019,2018,Nanyang Technological University,College of Engineering,Electrical & Electronic Engineering,BCC/B,71.25,3.49
+2017/2018,2017,Nanyang Technological University,College of Engineering,Electrical & Electronic Engineering,BCC/C,70,3.56
+2016/2017,2016,Nanyang Technological University,College of Engineering,Electrical & Electronic Engineering,CCC/C,67.5,3.47
+2015/2016,2015,Nanyang Technological University,College of Engineering,Electrical & Electronic Engineering,CCD/C,65,3.44
+2014/2015,2014,Nanyang Technological University,College of Engineering,Electrical & Electronic Engineering,CCD/C,65,3.44
+2013/2014,2013,Nanyang Technological University,College of Engineering,Electrical & Electronic Engineering,CCD/C,65,3.37
+2012/2013,2012,Nanyang Technological University,College of Engineering,Electrical & Electronic Engineering,BCC/D,68.75,3.47
+2011/2012,2011,Nanyang Technological University,College of Engineering,Electrical & Electronic Engineering,BCC/C,70,3.51
+2010/2011,2010,Nanyang Technological University,College of Engineering,Electrical & Electronic Engineering,BCC/B,71.25,3.57
+2009/2010,2009,Nanyang Technological University,College of Engineering,Electrical & Electronic Engineering,BCC/C,70,3.39
+2008/2009,2008,Nanyang Technological University,College of Engineering,Electrical & Electronic Engineering,BCC/C,70,3.35
+2019/2020,2019,Nanyang Technological University,College of Engineering,Engineering,CCC/C,67.5,No Data
+2018/2019,2018,Nanyang Technological University,College of Engineering,Engineering,BCC/D,68.75,No Data
+2017/2018,2017,Nanyang Technological University,College of Engineering,Engineering,BCC/D,68.75,No Data
+2016/2017,2016,Nanyang Technological University,College of Engineering,Engineering,BCC/C,70,No Data
+2015/2016,2015,Nanyang Technological University,College of Engineering,Engineering,BCC/D,68.75,No Data
+2014/2015,2014,Nanyang Technological University,College of Engineering,Engineering,BCC/D,68.75,No Data
+2013/2014,2013,Nanyang Technological University,College of Engineering,Engineering,CCD/C,65,No Data
+2012/2013,2012,Nanyang Technological University,College of Engineering,Engineering,BCC/D,68.75,No Data
+2011/2012,2011,Nanyang Technological University,College of Engineering,Engineering,BCC/C,70,No Data
+2010/2011,2010,Nanyang Technological University,College of Engineering,Engineering,BCC/B,71.25,No Data
+2009/2010,2009,Nanyang Technological University,College of Engineering,Engineering,BCC/B,71.25,No Data
+2008/2009,2008,Nanyang Technological University,College of Engineering,Engineering,CCC/D,66.25,No Data
+2019/2020,2019,Nanyang Technological University,College of Engineering,Environmental Engineering,BCC/D,68.75,3.46
+2018/2019,2018,Nanyang Technological University,College of Engineering,Environmental Engineering,BCC/C,70,3.51
+2017/2018,2017,Nanyang Technological University,College of Engineering,Environmental Engineering,BBC/D,71.25,3.63
+2016/2017,2016,Nanyang Technological University,College of Engineering,Environmental Engineering,BBC/D,71.25,3.64
+2015/2016,2015,Nanyang Technological University,College of Engineering,Environmental Engineering,BBC/D,71.25,3.7
+2014/2015,2014,Nanyang Technological University,College of Engineering,Environmental Engineering,BBC/D,71.25,3.74
+2013/2014,2013,Nanyang Technological University,College of Engineering,Environmental Engineering,BCC/B,71.25,3.5
+2012/2013,2012,Nanyang Technological University,College of Engineering,Environmental Engineering,BCC/C,70,3.66
+2011/2012,2011,Nanyang Technological University,College of Engineering,Environmental Engineering,ABB/A,80,3.61
+2010/2011,2010,Nanyang Technological University,College of Engineering,Environmental Engineering,AAB/B,81.25,3.57
+2009/2010,2009,Nanyang Technological University,College of Engineering,Environmental Engineering,ABB/B,78.75,3.22
+2008/2009,2008,Nanyang Technological University,College of Engineering,Environmental Engineering,ABB/B,78.75,3.29
+2019/2020,2019,Nanyang Technological University,College of Engineering,Information Engineering & Media,BBC/B,73.75,3.49
+2018/2019,2018,Nanyang Technological University,College of Engineering,Information Engineering & Media,BBC/B,73.75,3.63
+2017/2018,2017,Nanyang Technological University,College of Engineering,Information Engineering & Media,BBC/B,73.75,3.7
+2016/2017,2016,Nanyang Technological University,College of Engineering,Information Engineering & Media,BCC/C,70,3.48
+2015/2016,2015,Nanyang Technological University,College of Engineering,Information Engineering & Media,BCC/D,68.75,3.53
+2014/2015,2014,Nanyang Technological University,College of Engineering,Information Engineering & Media,BCC/D,68.75,3.48
+2013/2014,2013,Nanyang Technological University,College of Engineering,Information Engineering & Media,CCC/B,68.75,3.52
+2012/2013,2012,Nanyang Technological University,College of Engineering,Information Engineering & Media,BCC/B,71.25,3.55
+2011/2012,2011,Nanyang Technological University,College of Engineering,Information Engineering & Media,BBC/B,73.75,3.58
+2010/2011,2010,Nanyang Technological University,College of Engineering,Information Engineering & Media,BBC/B,73.75,3.6
+2009/2010,2009,Nanyang Technological University,College of Engineering,Information Engineering & Media,BBC/C,72.5,3.64
+2008/2009,2008,Nanyang Technological University,College of Engineering,Information Engineering & Media,BBB/C,75,3.56
+2019/2020,2019,Nanyang Technological University,College of Engineering,Maritime Studies,BCC/C,70,3.54
+2018/2019,2018,Nanyang Technological University,College of Engineering,Maritime Studies,BCC/B,71.25,3.69
+2017/2018,2017,Nanyang Technological University,College of Engineering,Maritime Studies,BBC/C,72.5,3.68
+2016/2017,2016,Nanyang Technological University,College of Engineering,Maritime Studies,BBC/C,72.5,3.78
+2015/2016,2015,Nanyang Technological University,College of Engineering,Maritime Studies,ABC/D,73.75,3.69
+2014/2015,2014,Nanyang Technological University,College of Engineering,Maritime Studies,ABC/D,73.75,3.68
+2013/2014,2013,Nanyang Technological University,College of Engineering,Maritime Studies,BBB/C,75,3.7
+2012/2013,2012,Nanyang Technological University,College of Engineering,Maritime Studies,BBB/B,76.25,3.68
+2011/2012,2011,Nanyang Technological University,College of Engineering,Maritime Studies,ABB/B,78.75,3.71
+2010/2011,2010,Nanyang Technological University,College of Engineering,Maritime Studies,AAB/A,82.5,3.74
+2009/2010,2009,Nanyang Technological University,College of Engineering,Maritime Studies,ABB/A,80,3.65
+2008/2009,2008,Nanyang Technological University,College of Engineering,Maritime Studies,ABB/B,78.75,No Data
+2019/2020,2019,Nanyang Technological University,College of Engineering,Materials Engineering,BCC/D,68.75,3.38
+2018/2019,2018,Nanyang Technological University,College of Engineering,Materials Engineering,BBC/C,72.5,3.46
+2017/2018,2017,Nanyang Technological University,College of Engineering,Materials Engineering,BCC/C,70,3.49
+2016/2017,2016,Nanyang Technological University,College of Engineering,Materials Engineering,BCC/D,68.75,3.51
+2015/2016,2015,Nanyang Technological University,College of Engineering,Materials Engineering,BCC/D,68.75,3.46
+2014/2015,2014,Nanyang Technological University,College of Engineering,Materials Engineering,BCC/D,68.75,3.48
+2013/2014,2013,Nanyang Technological University,College of Engineering,Materials Engineering,CCD/C,65,3.39
+2012/2013,2012,Nanyang Technological University,College of Engineering,Materials Engineering,BCC/C,70,3.46
+2011/2012,2011,Nanyang Technological University,College of Engineering,Materials Engineering,BCC/B,71.25,3.52
+2010/2011,2010,Nanyang Technological University,College of Engineering,Materials Engineering,BBC/B,73.75,3.51
+2009/2010,2009,Nanyang Technological University,College of Engineering,Materials Engineering,BBC/C,72.5,3.24
+2008/2009,2008,Nanyang Technological University,College of Engineering,Materials Engineering,BCC/B,71.25,3.38
+2019/2020,2019,Nanyang Technological University,College of Engineering,Mechanical Engineering,BCC/D,68.75,3.4
+2018/2019,2018,Nanyang Technological University,College of Engineering,Mechanical Engineering,BCC/C,70,3.61
+2017/2018,2017,Nanyang Technological University,College of Engineering,Mechanical Engineering,BCC/C,70,3.63
+2016/2017,2016,Nanyang Technological University,College of Engineering,Mechanical Engineering,BCC/C,70,3.44
+2015/2016,2015,Nanyang Technological University,College of Engineering,Mechanical Engineering,CCC/D,66.25,3.46
+2014/2015,2014,Nanyang Technological University,College of Engineering,Mechanical Engineering,ABC/D,73.75,3.5
+2013/2014,2013,Nanyang Technological University,College of Engineering,Mechanical Engineering,CCD/C,65,3.47
+2012/2013,2012,Nanyang Technological University,College of Engineering,Mechanical Engineering,BCC/D,68.75,3.48
+2011/2012,2011,Nanyang Technological University,College of Engineering,Mechanical Engineering,BCC/C,70,3.55
+2010/2011,2010,Nanyang Technological University,College of Engineering,Mechanical Engineering,BCC/B,71.25,3.6
+2009/2010,2009,Nanyang Technological University,College of Engineering,Mechanical Engineering,BCC/B,71.25,3.32
+2008/2009,2008,Nanyang Technological University,College of Engineering,Mechanical Engineering,BCC/C,70,3.24
+2019/2020,2019,Nanyang Technological University,College of Science,Biological Sciences,AAB/B,81.25,3.71
+2018/2019,2018,Nanyang Technological University,College of Science,Biological Sciences,AAB/B,81.25,3.79
+2017/2018,2017,Nanyang Technological University,College of Science,Biological Sciences,AAC/C,77.5,3.78
+2016/2017,2016,Nanyang Technological University,College of Science,Biological Sciences,ABC/C,75,3.68
+2015/2016,2015,Nanyang Technological University,College of Science,Biological Sciences,ABC/D,73.75,3.54
+2014/2015,2014,Nanyang Technological University,College of Science,Biological Sciences,BBC/C,72.5,3.58
+2013/2014,2013,Nanyang Technological University,College of Science,Biological Sciences,BBC/B,73.75,3.37
+2012/2013,2012,Nanyang Technological University,College of Science,Biological Sciences,BBC/B,73.75,3.49
+2011/2012,2011,Nanyang Technological University,College of Science,Biological Sciences,BBC/B,73.75,3.37
+2010/2011,2010,Nanyang Technological University,College of Science,Biological Sciences,BBB/B,76.25,3.35
+2009/2010,2009,Nanyang Technological University,College of Science,Biological Sciences,BBC/B,73.75,3.29
+2008/2009,2008,Nanyang Technological University,College of Science,Biological Sciences,BBC/C,72.5,3.32
+2019/2020,2019,Nanyang Technological University,College of Science,Chemistry & Biological Chemistry,BBC/B,73.75,3.49
+2018/2019,2018,Nanyang Technological University,College of Science,Chemistry & Biological Chemistry,ABC/C,75,3.66
+2017/2018,2017,Nanyang Technological University,College of Science,Chemistry & Biological Chemistry,BBC/B,73.75,3.58
+2016/2017,2016,Nanyang Technological University,College of Science,Chemistry & Biological Chemistry,BCC/C,70,3.5
+2015/2016,2015,Nanyang Technological University,College of Science,Chemistry & Biological Chemistry,BBC/D,71.25,3.46
+2014/2015,2014,Nanyang Technological University,College of Science,Chemistry & Biological Chemistry,BCC/C,70,3.57
+2013/2014,2013,Nanyang Technological University,College of Science,Chemistry & Biological Chemistry,CCC/B,68.75,3.27
+2012/2013,2012,Nanyang Technological University,College of Science,Chemistry & Biological Chemistry,BCC/B,71.25,3.3
+2011/2012,2011,Nanyang Technological University,College of Science,Chemistry & Biological Chemistry,BBB/B,76.25,3.33
+2010/2011,2010,Nanyang Technological University,College of Science,Chemistry & Biological Chemistry,ABB/B,78.75,3.39
+2009/2010,2009,Nanyang Technological University,College of Science,Chemistry & Biological Chemistry,BBB/B,76.25,3.33
+2008/2009,2008,Nanyang Technological University,College of Science,Chemistry & Biological Chemistry,BBB/C,75,3.4
+2019/2020,2019,Nanyang Technological University,College of Science,Environmental Earth Systems Science,AAA/B,83.75,No Data
+2018/2019,2018,Nanyang Technological University,College of Science,Environmental Earth Systems Science,AAA/A,85,No Data
+2017/2018,2017,Nanyang Technological University,College of Science,Environmental Earth Systems Science,AAA/B,83.75,No Data
+2016/2017,2016,Nanyang Technological University,College of Science,Environmental Earth Systems Science,AAA/A,85,No Data
+2015/2016,2015,Nanyang Technological University,College of Science,Environmental Earth Systems Science,AAA/B,83.75,No Data
+2014/2015,2014,Nanyang Technological University,College of Science,Environmental Earth Systems Science,AAB/B,81.25,No Data
+2013/2014,2013,Nanyang Technological University,College of Science,Environmental Earth Systems Science,No Data,No Data,No Data
+2012/2013,2012,Nanyang Technological University,College of Science,Environmental Earth Systems Science,No Data,No Data,No Data
+2011/2012,2011,Nanyang Technological University,College of Science,Environmental Earth Systems Science,No Data,No Data,No Data
+2010/2011,2010,Nanyang Technological University,College of Science,Environmental Earth Systems Science,No Data,No Data,No Data
+2009/2010,2009,Nanyang Technological University,College of Science,Environmental Earth Systems Science,No Data,No Data,No Data
+2008/2009,2008,Nanyang Technological University,College of Science,Environmental Earth Systems Science,No Data,No Data,No Data
+2019/2020,2019,Nanyang Technological University,College of Science,Mathematical Sciences,BCC/B,73.75,No Data
+2018/2019,2018,Nanyang Technological University,College of Science,Mathematical Sciences,BBC/B,73.75,No Data
+2017/2018,2017,Nanyang Technological University,College of Science,Mathematical Sciences,BBC/C,72.5,3.6
+2016/2017,2016,Nanyang Technological University,College of Science,Mathematical Sciences,BCC/D,68.75,3.55
+2015/2016,2015,Nanyang Technological University,College of Science,Mathematical Sciences,BBC/D,71.25,3.56
+2014/2015,2014,Nanyang Technological University,College of Science,Mathematical Sciences,BBC/D,71.25,3.6
+2013/2014,2013,Nanyang Technological University,College of Science,Mathematical Sciences,CCC/B,68.75,3.52
+2012/2013,2012,Nanyang Technological University,College of Science,Mathematical Sciences,BBC/B,73.75,No Data
+2011/2012,2011,Nanyang Technological University,College of Science,Mathematical Sciences,BBB/B,76.25,3.54
+2010/2011,2010,Nanyang Technological University,College of Science,Mathematical Sciences,BBB/B,76.25,3.36
+2009/2010,2009,Nanyang Technological University,College of Science,Mathematical Sciences,BBB/B,76.25,No Data
+2008/2009,2008,Nanyang Technological University,College of Science,Mathematical Sciences,BBB/B,76.25,No Data
+2019/2020,2019,Nanyang Technological University,College of Science,Mathematics & Economics,No Data,No Data,No Data
+2018/2019,2018,Nanyang Technological University,College of Science,Mathematics & Economics,No Data,No Data,No Data
+2017/2018,2017,Nanyang Technological University,College of Science,Mathematics & Economics,AAB/B,81.25,No Data
+2016/2017,2016,Nanyang Technological University,College of Science,Mathematics & Economics,BCC/B,71.25,No Data
+2015/2016,2015,Nanyang Technological University,College of Science,Mathematics & Economics,ABC/D,73.75,No Data
+2014/2015,2014,Nanyang Technological University,College of Science,Mathematics & Economics,ABC/D,73.75,No Data
+2013/2014,2013,Nanyang Technological University,College of Science,Mathematics & Economics,BBB/C,75,No Data
+2012/2013,2012,Nanyang Technological University,College of Science,Mathematics & Economics,BBB/B,76.25,No Data
+2011/2012,2011,Nanyang Technological University,College of Science,Mathematics & Economics,ABB/B,78.75,No Data
+2010/2011,2010,Nanyang Technological University,College of Science,Mathematics & Economics,ABB/B,78.75,No Data
+2009/2010,2009,Nanyang Technological University,College of Science,Mathematics & Economics,ABB/B,78.75,No Data
+2008/2009,2008,Nanyang Technological University,College of Science,Mathematics & Economics,ABB/B,78.75,No Data
+2019/2020,2019,Nanyang Technological University,College of Science,Physics / Applied Physics,BCC/C,70,3.52
+2018/2019,2018,Nanyang Technological University,College of Science,Physics / Applied Physics,BCC/B,71.25,3.52
+2017/2018,2017,Nanyang Technological University,College of Science,Physics / Applied Physics,BCC/B,71.25,3.48
+2016/2017,2016,Nanyang Technological University,College of Science,Physics / Applied Physics,CCC/D,66.25,3.44
+2015/2016,2015,Nanyang Technological University,College of Science,Physics / Applied Physics,CCD/D,63.75,3.47
+2014/2015,2014,Nanyang Technological University,College of Science,Physics / Applied Physics,CCD/C,65,3.34
+2013/2014,2013,Nanyang Technological University,College of Science,Physics / Applied Physics,CDD/C,62.5,3.35
+2012/2013,2012,Nanyang Technological University,College of Science,Physics / Applied Physics,CCC/C,67.5,3.34
+2011/2012,2011,Nanyang Technological University,College of Science,Physics / Applied Physics,BCC/C,70,3.32
+2010/2011,2010,Nanyang Technological University,College of Science,Physics / Applied Physics,BBB/C,75,3.2
+2009/2010,2009,Nanyang Technological University,College of Science,Physics / Applied Physics,BBB/C,75,3.27
+2008/2009,2008,Nanyang Technological University,College of Science,Physics / Applied Physics,CCC/B,68.75,3.28
+2019/2020,2019,Nanyang Technological University,Nanyang Business School,Accountancy,ABC/B,76.25,3.63
+2018/2019,2018,Nanyang Technological University,Nanyang Business School,Accountancy,AAC/B,78.75,3.71
+2017/2018,2017,Nanyang Technological University,Nanyang Business School,Accountancy,AAB/B,81.25,3.73
+2016/2017,2016,Nanyang Technological University,Nanyang Business School,Accountancy,AAB/B,81.25,3.8
+2015/2016,2015,Nanyang Technological University,Nanyang Business School,Accountancy,AAA/C,82.5,3.78
+2014/2015,2014,Nanyang Technological University,Nanyang Business School,Accountancy,AAA/C,82.5,3.78
+2013/2014,2013,Nanyang Technological University,Nanyang Business School,Accountancy,AAB/A,82.5,3.79
+2012/2013,2012,Nanyang Technological University,Nanyang Business School,Accountancy,AAA/B,83.75,3.78
+2011/2012,2011,Nanyang Technological University,Nanyang Business School,Accountancy,AAA/B,83.75,3.73
+2010/2011,2010,Nanyang Technological University,Nanyang Business School,Accountancy,AAB/A,82.5,3.65
+2009/2010,2009,Nanyang Technological University,Nanyang Business School,Accountancy,AAA/B,83.75,3.69
+2008/2009,2008,Nanyang Technological University,Nanyang Business School,Accountancy,AAB/B,81.25,3.71
+2019/2020,2019,Nanyang Technological University,Nanyang Business School,Business,ABC/C,75,3.62
+2018/2019,2018,Nanyang Technological University,Nanyang Business School,Business,AAC/C,77.5,3.73
+2017/2018,2017,Nanyang Technological University,Nanyang Business School,Business,AAB/C,80,3.75
+2016/2017,2016,Nanyang Technological University,Nanyang Business School,Business,AAB/C,80,3.81
+2015/2016,2015,Nanyang Technological University,Nanyang Business School,Business,AAC/B,78.75,3.8
+2014/2015,2014,Nanyang Technological University,Nanyang Business School,Business,AAB/B,81.25,3.79
+2013/2014,2013,Nanyang Technological University,Nanyang Business School,Business,AAB/C,80,3.8
+2012/2013,2012,Nanyang Technological University,Nanyang Business School,Business,AAB/B,81.25,3.74
+2011/2012,2011,Nanyang Technological University,Nanyang Business School,Business,AAB/B,81.25,3.73
+2010/2011,2010,Nanyang Technological University,Nanyang Business School,Business,AAB/B,81.25,3.64
+2009/2010,2009,Nanyang Technological University,Nanyang Business School,Business,AAA/B,83.75,3.62
+2008/2009,2008,Nanyang Technological University,Nanyang Business School,Business,ABB/B,78.75,3.63
+2019/2020,2019,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences","Art, Design & Media",CCD/C,65,3.3
+2018/2019,2018,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences","Art, Design & Media",CCD/C,65,3.26
+2017/2018,2017,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences","Art, Design & Media",CCD/D,63.75,3.28
+2016/2017,2016,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences","Art, Design & Media",CCD/C,65,3.23
+2015/2016,2015,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences","Art, Design & Media",CCD/C,65,3.23
+2014/2015,2014,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences","Art, Design & Media",CDD/C,62.5,3.32
+2013/2014,2013,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences","Art, Design & Media",CDD/C,62.5,3.16
+2012/2013,2012,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences","Art, Design & Media",CCD/D,63.75,3.16
+2011/2012,2011,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences","Art, Design & Media",CCC/C,67.5,3.15
+2010/2011,2010,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences","Art, Design & Media",CDD/C,62.5,3.11
+2009/2010,2009,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences","Art, Design & Media",CDD/C,62.5,3.04
+2008/2009,2008,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences","Art, Design & Media",DDD/D,58.75,2.58
+2019/2020,2019,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Chinese,BBC/C,72.5,3.41
+2018/2019,2018,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Chinese,BCC/C,70,3.44
+2017/2018,2017,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Chinese,BCC/C,70,3.44
+2016/2017,2016,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Chinese,BCC/C,70,3.46
+2015/2016,2015,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Chinese,BCC/D,68.75,3.37
+2014/2015,2014,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Chinese,BCC/C,70,3.48
+2013/2014,2013,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Chinese,BCC/C,70,3.43
+2012/2013,2012,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Chinese,CCC/D,66.25,3.43
+2011/2012,2011,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Chinese,CCC/B,68.75,3.45
+2010/2011,2010,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Chinese,BCC/B,71.25,3.35
+2009/2010,2009,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Chinese,CCC/C,67.5,3.29
+2008/2009,2008,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Chinese,CCC/C,67.5,3.37
+2019/2020,2019,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Communication Studies,AAA/B,83.75,3.68
+2018/2019,2018,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Communication Studies,AAB/B,81.25,No Data
+2017/2018,2017,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Communication Studies,AAC/B,78.75,3.72
+2016/2017,2016,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Communication Studies,AAC/C,77.5,3.71
+2015/2016,2015,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Communication Studies,ABC/B,76.25,3.74
+2014/2015,2014,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Communication Studies,ABC/B,76.25,3.79
+2013/2014,2013,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Communication Studies,ABC/C,75,3.68
+2012/2013,2012,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Communication Studies,ABC/B,76.25,3.64
+2011/2012,2011,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Communication Studies,ABB/B,78.75,3.37
+2010/2011,2010,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Communication Studies,ABB/B,78.75,3.58
+2009/2010,2009,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Communication Studies,ABB/B,78.75,3.4
+2008/2009,2008,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Communication Studies,BBB/C,75,3.21
+2019/2020,2019,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Economics,BBC/B,73.75,3.51
+2018/2019,2018,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Economics,ABC/C,75,3.57
+2017/2018,2017,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Economics,ABC/C,75,3.61
+2016/2017,2016,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Economics,ABC/C,75,3.69
+2015/2016,2015,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Economics,ABC/C,75,3.63
+2014/2015,2014,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Economics,ABC/C,75,3.71
+2013/2014,2013,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Economics,BBB/C,75,3.6
+2012/2013,2012,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Economics,BBC/B,73.75,3.68
+2011/2012,2011,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Economics,BBB/C,75,3.61
+2010/2011,2010,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Economics,BBB/C,75,3.55
+2009/2010,2009,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Economics,BBB/B,76.25,3.52
+2008/2009,2008,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Economics,ABB/B,78.75,3.48
+2019/2020,2019,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",English,BBC/C,72.5,3.39
+2018/2019,2018,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",English,BBC/C,72.5,3.39
+2017/2018,2017,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",English,BBC/C,72.5,3.33
+2016/2017,2016,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",English,BCC/C,70,3.35
+2015/2016,2015,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",English,BCC/C,70,3.32
+2014/2015,2014,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",English,BCC/B,71.25,3.34
+2013/2014,2013,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",English,BCC/C,70,3.38
+2012/2013,2012,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",English,BCC/C,70,3.4
+2011/2012,2011,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",English,BCC/B,71.25,No Data
+2010/2011,2010,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",English,BCC/B,71.25,No Data
+2009/2010,2009,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",English,BCC/C,70,No Data
+2008/2009,2008,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",English,CCC/C,67.5,No Data
+2019/2020,2019,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",History,BBC/B,73.75,No Data
+2018/2019,2018,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",History,BCC/C,70,3.49
+2017/2018,2017,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",History,BCC/B,71.25,3.45
+2016/2017,2016,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",History,BCC/C,70,3.41
+2015/2016,2015,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",History,BCC/B,71.25,3.38
+2014/2015,2014,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",History,BCC/B,71.25,No Data
+2013/2014,2013,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",History,CCC/B,68.75,No Data
+2012/2013,2012,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",History,BCC/C,70,No Data
+2011/2012,2011,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",History,No Data,No Data,No Data
+2010/2011,2010,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",History,No Data,No Data,No Data
+2009/2010,2009,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",History,No Data,No Data,No Data
+2008/2009,2008,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",History,No Data,No Data,No Data
+2019/2020,2019,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Linguistics & Multilingual Studies,BCC/B,71.25,3.38
+2018/2019,2018,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Linguistics & Multilingual Studies,ABC/C,75,3.52
+2017/2018,2017,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Linguistics & Multilingual Studies,BBC/B,73.75,3.53
+2016/2017,2016,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Linguistics & Multilingual Studies,BBC/C,72.5,3.53
+2015/2016,2015,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Linguistics & Multilingual Studies,BBC/B,73.75,3.44
+2014/2015,2014,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Linguistics & Multilingual Studies,BBC/C,72.5,3.49
+2013/2014,2013,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Linguistics & Multilingual Studies,BBC/C,72.5,No Data
+2012/2013,2012,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Linguistics & Multilingual Studies,BBC/C,72.5,No Data
+2011/2012,2011,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Linguistics & Multilingual Studies,BBC/B,73.75,No Data
+2010/2011,2010,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Linguistics & Multilingual Studies,BBC/C,72.5,No Data
+2009/2010,2009,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Linguistics & Multilingual Studies,BCC/C,70,No Data
+2008/2009,2008,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Linguistics & Multilingual Studies,BCC/C,70,No Data
+2019/2020,2019,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Philosophy,BCC/C,70,3.31
+2018/2019,2018,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Philosophy,BCC/B,71.25,No Data
+2017/2018,2017,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Philosophy,BCC/B,71.25,No Data
+2016/2017,2016,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Philosophy,BCC/B,71.25,No Data
+2015/2016,2015,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Philosophy,BCC/B,71.25,3.48
+2014/2015,2014,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Philosophy,BCC/C,70,3.48
+2013/2014,2013,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Philosophy,No Data,No Data,No Data
+2012/2013,2012,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Philosophy,No Data,No Data,No Data
+2011/2012,2011,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Philosophy,No Data,No Data,No Data
+2010/2011,2010,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Philosophy,No Data,No Data,No Data
+2009/2010,2009,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Philosophy,No Data,No Data,No Data
+2008/2009,2008,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Philosophy,No Data,No Data,No Data
+2019/2020,2019,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Psychology,ABC/C,75,3.67
+2018/2019,2018,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Psychology,AAC/C,77.5,3.68
+2017/2018,2017,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Psychology,AAC/C,77.5,3.74
+2016/2017,2016,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Psychology,ABC/B,76.25,3.69
+2015/2016,2015,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Psychology,ABC/B,76.25,3.71
+2014/2015,2014,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Psychology,ABC/C,75,3.81
+2013/2014,2013,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Psychology,BBC/B,73.75,3.69
+2012/2013,2012,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Psychology,BBB/C,75,3.63
+2011/2012,2011,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Psychology,BBB/C,75,3.67
+2010/2011,2010,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Psychology,BBB/B,76.25,3.69
+2009/2010,2009,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Psychology,BBC/A,75,3.32
+2008/2009,2008,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Psychology,BBB/B,76.25,3.49
+2019/2020,2019,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Public Policy & Global Affairs,ABC/C,75,3.56
+2018/2019,2018,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Public Policy & Global Affairs,ABC/C,75,3.67
+2017/2018,2017,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Public Policy & Global Affairs,BBC/B,73.75,3.63
+2016/2017,2016,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Public Policy & Global Affairs,BBC/C,72.5,3.64
+2015/2016,2015,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Public Policy & Global Affairs,ABC/C,75,3.62
+2014/2015,2014,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Public Policy & Global Affairs,ABC/C,75,3.63
+2013/2014,2013,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Public Policy & Global Affairs,BBC/B,73.75,3.46
+2012/2013,2012,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Public Policy & Global Affairs,No Data,No Data,No Data
+2011/2012,2011,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Public Policy & Global Affairs,No Data,No Data,No Data
+2010/2011,2010,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Public Policy & Global Affairs,No Data,No Data,No Data
+2009/2010,2009,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Public Policy & Global Affairs,No Data,No Data,No Data
+2008/2009,2008,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Public Policy & Global Affairs,No Data,No Data,No Data
+2019/2020,2019,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Sociology,BBC/C,72.5,3.47
+2018/2019,2018,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Sociology,BBC/C,72.5,3.56
+2017/2018,2017,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Sociology,BBC/B,73.75,3.58
+2016/2017,2016,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Sociology,BBC/B,73.75,3.64
+2015/2016,2015,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Sociology,BCC/B,71.25,3.58
+2014/2015,2014,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Sociology,BBC/C,72.5,3.47
+2013/2014,2013,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Sociology,BBC/C,72.5,3.5
+2012/2013,2012,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Sociology,BCC/B,71.25,3.58
+2011/2012,2011,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Sociology,BBC/B,73.75,3.49
+2010/2011,2010,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Sociology,BBB/C,75,3.5
+2009/2010,2009,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Sociology,CCC/B,68.75,3.33
+2008/2009,2008,Nanyang Technological University,"College of Humanities, Arts, & Social Sciences",Sociology,BCC/B,71.25,3.39
+2019/2020,2019,Nanyang Technological University,Sport Science & Management,Sport Science & Management,BCC/B,71.25,3.54
+2018/2019,2018,Nanyang Technological University,Sport Science & Management,Sport Science & Management,BBC/C,72.5,3.58
+2017/2018,2017,Nanyang Technological University,Sport Science & Management,Sport Science & Management,BBC/B,73.75,3.67
+2016/2017,2016,Nanyang Technological University,Sport Science & Management,Sport Science & Management,BBC/B,73.75,3.61
+2015/2016,2015,Nanyang Technological University,Sport Science & Management,Sport Science & Management,ABC/C,75,3.64
+2014/2015,2014,Nanyang Technological University,Sport Science & Management,Sport Science & Management,ABC/D,73.75,3.68
+2013/2014,2013,Nanyang Technological University,Sport Science & Management,Sport Science & Management,BBC/C,72.5,3.58
+2012/2013,2012,Nanyang Technological University,Sport Science & Management,Sport Science & Management,BBC/C,72.5,3.46
+2011/2012,2011,Nanyang Technological University,Sport Science & Management,Sport Science & Management,BBB/C,75,No Data
+2010/2011,2010,Nanyang Technological University,Sport Science & Management,Sport Science & Management,BBC/A,75,3.53
+2009/2010,2009,Nanyang Technological University,Sport Science & Management,Sport Science & Management,AAB/C,80,3.41
+2008/2009,2008,Nanyang Technological University,Sport Science & Management,Sport Science & Management,No Data,No Data,No Data
+2019/2020,2019,Nanyang Technological University,National Institute of Education,Arts (Education),ABC/B,76.25,No Data
+2018/2019,2018,Nanyang Technological University,National Institute of Education,Arts (Education),BBC/B,73.75,No Data
+2017/2018,2017,Nanyang Technological University,National Institute of Education,Arts (Education),ABC/B,76.25,No Data
+2016/2017,2016,Nanyang Technological University,National Institute of Education,Arts (Education),ABC/B,76.25,3.59
+2015/2016,2015,Nanyang Technological University,National Institute of Education,Arts (Education),ABC/D,73.75,No Data
+2014/2015,2014,Nanyang Technological University,National Institute of Education,Arts (Education),No Data,No Data,No Data
+2013/2014,2013,Nanyang Technological University,National Institute of Education,Arts (Education),BCD/B,68.75,3.48
+2012/2013,2012,Nanyang Technological University,National Institute of Education,Arts (Education),BBC/C,72.5,3.21
+2011/2012,2011,Nanyang Technological University,National Institute of Education,Arts (Education),No Data,No Data,No Data
+2010/2011,2010,Nanyang Technological University,National Institute of Education,Arts (Education),No Data,No Data,No Data
+2009/2010,2009,Nanyang Technological University,National Institute of Education,Arts (Education),No Data,No Data,No Data
+2008/2009,2008,Nanyang Technological University,National Institute of Education,Arts (Education),No Data,No Data,No Data
+2019/2020,2019,Nanyang Technological University,National Institute of Education,Science (Education),AAB/B,81.25,No Data
+2018/2019,2018,Nanyang Technological University,National Institute of Education,Science (Education),AAB/C,80,No Data
+2017/2018,2017,Nanyang Technological University,National Institute of Education,Science (Education),AAC/C,77.5,No Data
+2016/2017,2016,Nanyang Technological University,National Institute of Education,Science (Education),AAC/C,77.5,3.78
+2015/2016,2015,Nanyang Technological University,National Institute of Education,Science (Education),AAC/C,77.5,No Data
+2014/2015,2014,Nanyang Technological University,National Institute of Education,Science (Education),No Data,No Data,No Data
+2013/2014,2013,Nanyang Technological University,National Institute of Education,Science (Education),ABC/C,75,3.37
+2012/2013,2012,Nanyang Technological University,National Institute of Education,Science (Education),BCC/B,71.25,3.3
+2011/2012,2011,Nanyang Technological University,National Institute of Education,Science (Education),No Data,No Data,No Data
+2010/2011,2010,Nanyang Technological University,National Institute of Education,Science (Education),No Data,No Data,No Data
+2009/2010,2009,Nanyang Technological University,National Institute of Education,Science (Education),No Data,No Data,No Data
+2008/2009,2008,Nanyang Technological University,National Institute of Education,Science (Education),No Data,No Data,No Data
+2019/2020,2019,Singapore Management University,Business Management,Business Management,ABB/C,77.5,3.68
+2018/2019,2018,Singapore Management University,Business Management,Business Management,ABB/C,77.5,3.7
+2017/2018,2017,Singapore Management University,Business Management,Business Management,ABB/C,77.5,3.7
+2016/2017,2016,Singapore Management University,Business Management,Business Management,ABB/C,77.5,3.72
+2015/2016,2015,Singapore Management University,Business Management,Business Management,BBB/B,76.25,3.7
+2014/2015,2014,Singapore Management University,Business Management,Business Management,BBB/B,76.25,3.71
+2013/2014,2013,Singapore Management University,Business Management,Business Management,BBB/B,76.25,3.72
+2012/2013,2012,Singapore Management University,Business Management,Business Management,BBB/B,76.25,3.72
+2011/2012,2011,Singapore Management University,Business Management,Business Management,ABB/B,78.75,3.71
+2010/2011,2010,Singapore Management University,Business Management,Business Management,ABB/C,77.5,3.62
+2009/2010,2009,Singapore Management University,Business Management,Business Management,ABB/C,77.5,3.52
+2008/2009,2008,Singapore Management University,Business Management,Business Management,ABB/B,78.75,3.49
+2019/2020,2019,Singapore Management University,Law,Law,AAA/A,85,No Data
+2018/2019,2018,Singapore Management University,Law,Law,AAA/A,85,No Data
+2017/2018,2017,Singapore Management University,Law,Law,AAA/A,85,No Data
+2016/2017,2016,Singapore Management University,Law,Law,AAA/A,85,No Data
+2015/2016,2015,Singapore Management University,Law,Law,AAA/A,85,No Data
+2014/2015,2014,Singapore Management University,Law,Law,AAA/A,85,No Data
+2013/2014,2013,Singapore Management University,Law,Law,AAA/A,85,No Data
+2012/2013,2012,Singapore Management University,Law,Law,AAA/A,85,No Data
+2011/2012,2011,Singapore Management University,Law,Law,AAA/A,85,No Data
+2010/2011,2010,Singapore Management University,Law,Law,AAA/A,85,No Data
+2009/2010,2009,Singapore Management University,Law,Law,AAA/A,85,No Data
+2008/2009,2008,Singapore Management University,Law,Law,AAA/B,83.75,No Data
+2019/2020,2019,Singapore Management University,Economics,Economics,BBC/A,75,3.69
+2018/2019,2018,Singapore Management University,Economics,Economics,BBC/B,73.75,3.7
+2017/2018,2017,Singapore Management University,Economics,Economics,BBC/B,73.75,3.7
+2016/2017,2016,Singapore Management University,Economics,Economics,BBC/B,73.75,3.72
+2015/2016,2015,Singapore Management University,Economics,Economics,BBC/C,72.5,3.71
+2014/2015,2014,Singapore Management University,Economics,Economics,BBC/B,73.75,3.72
+2013/2014,2013,Singapore Management University,Economics,Economics,BBC/C,72.5,3.71
+2012/2013,2012,Singapore Management University,Economics,Economics,BBC/C,72.5,3.7
+2011/2012,2011,Singapore Management University,Economics,Economics,AAB/C,80,3.6
+2010/2011,2010,Singapore Management University,Economics,Economics,AAB/B,81.25,3.55
+2009/2010,2009,Singapore Management University,Economics,Economics,ABB/C,77.5,3.52
+2008/2009,2008,Singapore Management University,Economics,Economics,BBB/B,76.25,3.3
+2019/2020,2019,Singapore Management University,Information Systems Management,Information Systems Management,BBC/B,73.75,3.57
+2018/2019,2018,Singapore Management University,Information Systems Management,Information Systems Management,BBC/B,73.75,3.52
+2017/2018,2017,Singapore Management University,Information Systems Management,Information Systems Management,BBC/B,73.75,3.57
+2016/2017,2016,Singapore Management University,Information Systems Management,Information Systems Management,BBC/C,72.5,3.54
+2015/2016,2015,Singapore Management University,Information Systems Management,Information Systems Management,BCC/C,70,3.5
+2014/2015,2014,Singapore Management University,Information Systems Management,Information Systems Management,BCC/D,68.75,3.52
+2013/2014,2013,Singapore Management University,Information Systems Management,Information Systems Management,BCC/C,70,3.53
+2012/2013,2012,Singapore Management University,Information Systems Management,Information Systems Management,BCC/C,70,3.53
+2011/2012,2011,Singapore Management University,Information Systems Management,Information Systems Management,BCC/B,71.25,3.52
+2010/2011,2010,Singapore Management University,Information Systems Management,Information Systems Management,BCC/C,70,3.44
+2009/2010,2009,Singapore Management University,Information Systems Management,Information Systems Management,BCC/C,70,3.23
+2008/2009,2008,Singapore Management University,Information Systems Management,Information Systems Management,BCC/B,71.25,3.16
+2019/2020,2019,Singapore Management University,Computer Science,Computer Science,AAB/B,81.25,3.75
+2018/2019,2018,Singapore Management University,Computer Science,Computer Science,No Data,No Data,No Data
+2017/2018,2017,Singapore Management University,Computer Science,Computer Science,No Data,No Data,No Data
+2016/2017,2016,Singapore Management University,Computer Science,Computer Science,No Data,No Data,No Data
+2015/2016,2015,Singapore Management University,Computer Science,Computer Science,No Data,No Data,No Data
+2014/2015,2014,Singapore Management University,Computer Science,Computer Science,No Data,No Data,No Data
+2013/2014,2013,Singapore Management University,Computer Science,Computer Science,No Data,No Data,No Data
+2012/2013,2012,Singapore Management University,Computer Science,Computer Science,No Data,No Data,No Data
+2011/2012,2011,Singapore Management University,Computer Science,Computer Science,No Data,No Data,No Data
+2010/2011,2010,Singapore Management University,Computer Science,Computer Science,No Data,No Data,No Data
+2009/2010,2009,Singapore Management University,Computer Science,Computer Science,No Data,No Data,No Data
+2008/2009,2008,Singapore Management University,Computer Science,Computer Science,No Data,No Data,No Data
+2019/2020,2019,Singapore Management University,Social Sciences,Social Sciences,BBC/B,73.75,3.66
+2018/2019,2018,Singapore Management University,Social Sciences,Social Sciences,BBC/B,73.75,3.7
+2017/2018,2017,Singapore Management University,Social Sciences,Social Sciences,BBC/B,73.75,3.7
+2016/2017,2016,Singapore Management University,Social Sciences,Social Sciences,BBC/B,73.75,3.71
+2015/2016,2015,Singapore Management University,Social Sciences,Social Sciences,BBC/C,72.5,3.71
+2014/2015,2014,Singapore Management University,Social Sciences,Social Sciences,BBC/C,72.5,3.7
+2013/2014,2013,Singapore Management University,Social Sciences,Social Sciences,BBC/C,72.5,3.72
+2012/2013,2012,Singapore Management University,Social Sciences,Social Sciences,BBC/C,72.5,3.61
+2011/2012,2011,Singapore Management University,Social Sciences,Social Sciences,BBB/C,75,3.63
+2010/2011,2010,Singapore Management University,Social Sciences,Social Sciences,BBB/B,76.25,3.54
+2009/2010,2009,Singapore Management University,Social Sciences,Social Sciences,BBC/B,73.75,3.35
+2008/2009,2008,Singapore Management University,Social Sciences,Social Sciences,BBC/B,73.75,3.28
