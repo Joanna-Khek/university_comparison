@@ -5,8 +5,7 @@ Hi there. My name is Joanna Khek Cuina and this is my submission for Rshiny Comp
 In this web application, i have only compared National University of Singapore, Nanyang Technological University and Singapore Management University as there are more readily available data from them given their relatively longer history in Singapore. 
 
 ## Application
-![Thumbnail](/images/thumbnail.gif)
-Format: ![Alt Text](url)
+![Thumbnail](/images/thumbnail_github.gif)
 
 
 ## Features
