@@ -4,5 +4,15 @@ Hi there. My name is Joanna Khek Cuina and this is my submission for Rshiny Comp
 
 In this web application, i have only compared National University of Singapore, Nanyang Technological University and Singapore Management University as there are more readily available data from them given their relatively longer history in Singapore. 
 
-Some of the main packages used for building this web application are argonDash, highcharter, reactable and shinywidgets.
-It has truly been an enjoyable experience building this dashboard and i've learnt a lot during the process
+## Application
+
+
+
+## Features
+The following information are found in the dashboard:
+1. Eligible Courses - Find out what courses are you eligible for from the different universities
+2. Ranking - Find out the world and asia ranking of the different universities
+3. Graduates - Find out the number of intakes and graduates from the different universities
+4. Employment - Find out the overall employment rate and mean income of the different courses from the different universities
+5. Grades - Find out the grade requirement of the different courses from the different universities 
+
