@@ -9,10 +9,10 @@ In this web application, i have only compared National University of Singapore, 
 ![Thumbnail](/images/thumbnail_github.gif)
 
 ## Features
-The following information are found in the dashboard:
+The following information can be found in the dashboard:
 1. Eligible Courses - Find out what courses are you eligible for from the different universities
 2. Ranking - Find out the world and asia ranking of the different universities
 3. Graduates - Find out the number of intakes and graduates from the different universities
-4. Employment - Find out the overall employment rate and mean income of the different courses from the different universities
-5. Grades - Find out the grade requirement of the different courses from the different universities 
+4. Employment - Find out the overall employment rate and mean income
+5. Grades - Find out the grade requirement of the different courses
 
