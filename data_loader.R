@@ -17,10 +17,11 @@ library(argonDash)
 library(magrittr)
 library(shinyWidgets)
 library(shinyFeedback)
+library(cicerone)
 
 # data
 intake_data = read.csv("intake_data_clean.csv", header=TRUE)
-employment_data = read.csv("employment_data_Clean.csv", header=TRUE)
+employment_data = read.csv("employment_data_clean.csv", header=TRUE)
 grades_data = read.csv("grades_data_clean.csv", header=TRUE)
 graduates_data = read.csv("graduates_data_clean.csv", header=TRUE)
 career_prospects_data = read.csv("career_prospects_clean.csv", header=TRUE)

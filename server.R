@@ -3,6 +3,16 @@
 
 server = shinyServer( function(session, input, output) {
   
+  observeEvent("", {
+    showModal(modalDialog(
+      includeHTML("intro.html"),
+      easyClose = TRUE,
+      )
+    )
+  })
+  
+  output$print = renderPrint(txt())
+  
   observe({
     nus_degree = employment_data_nus %>% filter(school == input$nus_school_Input) %>% pull(degree)
     updateSelectInput(session, "nus_degree_Input", choices = unique(nus_degree))

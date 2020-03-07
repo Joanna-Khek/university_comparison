@@ -4,7 +4,8 @@ source("data_loader.R")
 
 
 ui = argonDashPage(
-    title = "Singapore's University Comparison",
+    
+    title = "University Comparison Dashboard",
     description = "Choosing the right degree to study in Singapore",
     author = "Joanna Khek Cuina",
     sidebar = argonDashSidebar(
