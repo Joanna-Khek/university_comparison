@@ -1,4 +1,5 @@
 # Rshiny Singapore University Comparison App
+Shiny App: https://joanna-khek.shinyapps.io/University_Comparison/
 
 
 ## About
