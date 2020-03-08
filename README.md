@@ -16,3 +16,5 @@ The following information can be found in the dashboard:
 4. Employment - Find out the overall employment rate and mean income
 5. Grades - Find out the grade requirement of the different courses
 
+## Data
+Data can be obtained from www.data.gov.sg
